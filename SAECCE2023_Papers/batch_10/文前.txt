@@ -1,0 +1,1715 @@
+2023中国汽车工程学会年会
+2023 CHINA-SAE CONGRESS
+论文集
+PROCEEDINGS
+中国汽车工程学会编
+China Society of Automotive Engineers
+机械工业出版社
+本文集共收录来自整车及零部件企业、科研院所的论文450余篇，内容涉及智能网联汽车技术，新能源及节能减排技术，商用车技术，越野、飞行与特种车辆技术，汽车动力总成技术，汽车设计技术，汽车制造工艺技术，技术管理等八大领域。这些论文全面反映了汽车工程界的学术水平、研发现状和趋势，具有很高的参考价值，可作为汽车专业的学生、业内技术人员和研究人员的研究资料。
+机械工业出版社（北京市百万庄大街22号邮政编码100037）
+策划编辑：赵海青丁锋责任编辑：赵海青丁锋刘煊谢元徐霆
+孙鹏何士娟李军孟阳
+2023年10月第1版第1次印刷
+184mm×260mm·17925印张·8051千字
+标准书号：ISBN 978-7-89386-309-7
+定价：500.00元
+电话服务网络服务
+客服电话：010-88361066机工官网：www.cmpbook.com
+010-88379833机工官博：weibo.com/cmp1952
+010-68326294金书网：www.golden-book.com
+封底无防伪标均为盗版机工教育服务网：www.cmpedu.com
+2023中国汽车工程学会年会论文评审委员会
+主任委员：葛松林管欣
+委员(按姓氏笔画排序):
+丁绍春丁渭平卜晓兵于吉龙于秀敏于梅上官文斌马汝成马志雄马应斌马彬马媛媛王大志王万英王丹琦王文军王方王书翰王丙雨王永炜王亚飞王达王伟王伟民王伟达王庆洋王军年王阳王红王志福王芳王利王忠校王建业王建锋王显会王秋成王剑锋王贺武王振峰王涣杰王银明王博王朝斌王智文王登峰毛洪钧尹智帅邓俊甘顺卢剑伟卢炳武卢萍萍卢紫旺帅石金田长青田光宇田贺白先旭白志刚冯能莲边有刚尧命发吕晓江朱元朱平朱宏伟任卫群任东生任立海任鹏刘世新刘永刚刘志新刘芳刘钊刘坤刘昌雄刘金刚刘波刘宗巍刘政林刘科刘艳芳刘浩刘常青刘敏刘献栋刘鹏江发潮汤环球许敏孙力孙天骏孙凌玉孙鹏远芮健严辉苏成云苏波苏家竹杜天强杜常清李万江李凡李飞李功清李功赋李刚李伟李华峰李齐丽李军李军李远瞻李志刚李宏光李张银李国法李明李明桓李径亮李金广李宗华李建秋李孟良李泉李俊贤李亮李洪亮李哲李桂兵李海岩李理光李菁华李康李隆键李喜咏李楚照杨万安杨丹杨伟斌杨京鸿杨春杰杨荣山杨彪杨超肖攀吴礼军吴旭亭吴志军吴伯荣吴泽民吴晓涛吴涛何金涛何洪文何照丹谷京哲邹恒琪邹慧明闵峻英闵海涛汪怡平沈铁军宋子利宋建国初亮张风利张正杰张伦维张宇飞张进明张君媛张英朝张国龙张忠元张荣辉张炳力张琳张辉张雷张衡陆海峰陆善彬陈达兴陈达亮陈红旭陈建军陈树星陈树勇陈轶嵩陈勇陈勇陈晓青陈赣陈鑫武冬梅范健文林海英林程欧阳天成欧阳涛尚诗易丰收罗玉涛罗逍岳巍金春华金春峰金隼周长宇周平周宇飞周青周坤周明岳周忠胜周建军庞剑郑松林房金良孟宪明孟祥峰赵又群赵平堂赵立金赵礼辉赵芳勋赵辉赵锐赵登峰郝旭郝瀚胡宏宇胡昌华胡新意查云飞钟再敏侯文彬侯献军姜武华宫宝利姚春德贺银芝敖文宏聂冰冰莫富灏贾鑫顾功尧柴天钱煜平徐向阳徐兴徐梁飞徐超殷祥珍高长胜高方勇高炳钊高强高镇海郭平郭建华郭栋郭珣郭魁元席军强唐小林唐先智唐宇唐波黄岩军黄勇曹飞崔丹崔厚学崔颖康华平康哲葛蕴珊董爽董鹏蒋树勋韩建保韩勇嵇建波程志毅鲁后国曾小华曾帆谢晖谢海明赖俊斌雷飞雷雨龙路洪洲詹军詹振飞蔡未末蔡营樊勇滕继东颜燕薛庆峰冀杰魏静瞿良
+李军，蔚来控股有限公司。
+李军，中国汽车技术研究中心有限公司。
+陈勇，广西大学。
+陈勇，北京信息科技大学。
+中国汽车工程学会
+中国汽车工程学会（China SAE）成立于1963 年，是由中国汽车科技工作者自愿组成的全国性、学术性法人团体；是中国科学技术协会的组成部分，非营利性社会组织；是世界汽车工程师学会联合会(FISITA) 常务理事；是亚太汽车工程年会（APAC）发起国之一。中国汽车工程学会经过五十余年的发展，已经成为推动汽车产业健康、持续发展不可缺少的重要力量，得到了国内外汽车行业、社会各界、政府部门和广大科技人员的认可。中国汽车工程学会目前下设56 个分支/ 代表机构，并与各个省级汽车工程学会建立了业务指导关系。中国汽车工程学会是中国汽车工业传播新思想、交流新技术、宣传新观念的重要力量和增进国际汽车行业交流的重要桥梁。
+历史沿革
+中国汽车工程学会前身是中国机械工程学会汽车工程分会，1963年成立于长春。1985年3月，经国家体改委批准成为全国性学会，同年加入中国科学技术协会。1991年9月经民政部批准成为社团法人。
+服务宗旨
+- 推动汽车工业科技进步
+- 培养汽车科技人才
+- 促进国内外汽车产业技术交流
+- 传播、普及汽车科技知识
+- 弘扬汽车文化
+- 筑建科技工作者之家
+前言
+ＰＲＥＦＡＣＥ恰逢中国汽车工程学会成立60周年，2023年10月中国汽车工程学会举办第30届中国汽车工程学会年会暨展览会。
+2023中国汽车工程学会年会暨展览会（SAECCE 2023）以“科技引领汽车产业高质量发展”为主题，广泛邀请汽车及相关行业的院士、企业高层、技术领军人物、资深专家学者、广大科技工作者，交流内容涵盖节能动力、新能源、底盘系统、智能网联、整车集成与性能、共性能力/共性技术六大板块，通过组织会议、展览、试乘试驾、学术观点发布等多元化形式，共享全球实践、凝聚行业共识、促进产业发展、探索技术创新、强化生态建设，参会人数超过3500人。
+在广大汽车科技工作者的努力和支持下，本届年会收到论文投稿共1329篇，其中“中国大学生方程式系列赛事（FSC）”推荐论文46篇，本届年会共录取论文595篇。其中，8篇论文入选《汽车工程》、4篇入选《汽车技术》、1篇入选《Automotive Innovation》、2篇入选《汽车工程学报》、8篇入选《汽车工艺与材料》、2篇入选《汽车工程师》、1篇入选《汽车文摘》等期刊；108篇入选《2023中国汽车工程学会年会论文集精选》，将进入EI检索；其他461篇入选《2023中国汽车工程学会年会论文集》。
+本届年会论文内容涉及智能网联汽车技术，新能源及节能减排技术，商用车技术，越野、飞行与特种车辆技术，汽车动力总成技术，汽车设计技术，汽车制造工艺技术，技术管理多个领域，凝聚了广大汽车科技工作者近年来的科技成果，反映了国内外汽车企业和科研院所在诸多科技领域内的学术和科研水平，展示了汽车技术所取得的各项进步。
+在此，中国汽车工程学会对所有论文作者的辛勤工作表示感谢。同时，也感谢中国汽车工程学会各专业技术分会的积极参与和协助，尤其是对国内外汽车行业组织和技术专家的鼎力支持表示由衷的感谢与敬意。中国汽车工程学会将继续努力，坚持突破创新，引领先进技术，为全球汽车行业技术进步搭建综合学术交流平台。
+中国汽车工程学会
+2023年10月目录
+CONTENTS前言
+PREFACE
+VOLUME Ⅰ
+一、智能网联汽车技术
+SAECCE2023-ICV002Road Sensing Scheduling System Based on V2X in the Autonomous Driving Platform
+Yang Xiuyu,Zhang Zhuangyan,Yang Sui,Sun Fengping,Liu Yanbo,Du Haikuo,
+Yang Zheng,Liu Yan,Sun Weiqi/
+SAECCE2023-ICV004智能汽车前方车辆侧翻行为识别
+Front-vehicle Rollover Recognition Based on Perception Information of Intelligent Vehicle
+陈健，连小珉，罗禹贡，向云丰，贺岩松/
+SAECCE2023-ICV006基于YOLOv5和线段识别的车道线检测算法
+Lane Line Detection Method Based on YOLOv5 and Line Segment Recognition
+谈东奎，段望华，朱波，金来，张捷/
+SAECCE2023-ICV007基于驾驶意图风险评估的智能汽车路径规划算法
+Path Planning of Intelligent Vehicle Based on Driver’s Intention Risk Evaluation
+毛邱，汤超，刘延，陈雄/
+SAECCE2023-ICV012基于Ribbon模型的鲁棒MPC路径跟踪控制方法
+A Tube-based MPC Path Tracking Control Method with Ribbon Model
+张昊,魏超,胡纪滨,张孟杰,康忠/
+SAECCE2023-ICV013最小二乘法在湿式多片离合器温度预测中的应用研究
+Study on Temperature Prediction for the Wet Multi-Disc Plate Clutch with Least Square Method
+张安伟，凡则宏，刘波/
+SAECCE2023-ICV014面向停车场场景车车交互的自主泊车博弈决策方法
+An Autonomous Parking Game Decision-making Method for Vehicle-Vehicle Interaction in Parking Lot
+王永胜，古谚谌，赵超，杨皓宇，罗禹贡/
+SAECCE2023-ICV016智能汽车座舱多屏互动交互系统研究
+Multi-screen Interactive System for Intelligent Vehicle Cockpit
+罗婵，彭文欢，袁宝文，冷涛/
+SAECCE2023-ICV019SOTIF Virtualization Test and Development Based on Driver-in-Loop Dynamic Testbench
+Qiu Meihan，Yang Chunwei，Cui Haifeng/
+SAECCE2023-ICV020Curve Trajectory Tracking for Autonomous Vehicles Using Linear Time-varying MPC
+Chen Shuping,Chen Huiyan,Zhao Zhiguo/
+SAECCE2023-ICV021智能驾驶仿真场景复杂度量化评价方法
+Complex Measurement Evaluation Method for Intelligent Driving Simulation Scenarios
+王新伟，张晗，郭维，沈忱/
+SAECCE2023-ICV023基于二维概率网格的语义匹配
+Semantic Matching Based on 2D Probabilistic Grids
+张栋翔,邓一民,李天然/
+SAECCE2023-ICV025A Kalman Filter Based Lane Center Fusion Methode to Improve the User Experience of Advanced Driver Assistance Lateral Function
+Lu Yong,Jiang Kun,Kou Shengjie,Yang Jingning,Tian He,Yang Diange/
+SAECCE2023-ICV026Research on Real Vehicle Testing of Path Planning for Autonomous Driving Tractors under Ice and Snow Conditions
+Guan Huaiguang,Guo Peng,Yang Jiansen,Xia Haipeng,Zhang Dengquan/
+SAECCE2023-ICV027基于改进NDT算法的双激光雷达数据融合
+Dual LiDAR Data Fusion Based on Improved NDT Algorithm
+张瑞宾，覃维献，王瑞，邹涯梅，刁星鹏，缪春梅/
+SAECCE2023-ICV028不同系别及SOH锂离子电池温熵关系及内阻研究
+Study on the Temperature Entropy Relationship and Internal Resistance of Lithium-ion Batteries of Different Families and SOH
+孙智鹏,常沛祥,马彪,刘仕强,刘祎帆/
+SAECCE2023-ICV029Streaming Object Detection on Fisheye Cameras for Automatic Parking
+Yan Yixiong,Cheng Liangzhu,Li Yongxu,Tuo Xinjuan,Huang Baoqiang,Zhu Yakun/
+SAECCE2023-ICV032基于PD-Picodet的智能驾驶汽车路面病害实时检测算法研究
+Research on Real-time Pavement Disease Detection Algorithm for Intelligent Driving Cars Based on PD-Picodet
+杨典潇，常琳，张旭，张鑫，李思远/
+SAECCE2023-ICV033基于驾驶者头部水平转动行为的手动驾驶和高阶智能驾驶的差异性研究
+A Study of Differences Between Manual Driving and Advanced Intelligent Driving Based on Horizontal Head Rotation Behavior of Drivers
+孙春怡，Pia Hu，余钧雷/
+SAECCE2023-ICV034Research on Path Tracking for Autonomous Vehicle Based on MPC with Adoptive Variable Step Weight
+Wang Jiangwu,Pan Shaofei,Yang Zhengyan,Zhai Dengwang,Dong Guoqing,
+Li Maomeng,Li Yaohua/
+SAECCE2023-ICV038多任务联合图像识别方法研究
+Research on Multi-task Joint Image Recognition Method
+樊桢珍，陈喆，冯凯/
+SAECCE2023-ICV039基于高精地图的毫米波识别路沿的算法开发
+The Method of Recognize Rode Edge via Radar Point Cloud Filtered by HD Map
+李乂，翁明，张雨，程梁柱，舒丽，别韦苇/
+SAECCE2023-ICV040自动驾驶汽车线控转向系统自适应PID滑模控制研究
+Adaptive PID Sliding Mode Control of Steer-by-Wire Systems for Autonomous Vehicles
+陈新，张静宜，丁金刚，鲍晓东/
+SAECCE2023-ICV051A Real-time Detection Algorithm for Semi-structured Boundaries in the Park Based on 3D Lidar
+Ban Chao,Chi Ruijuan,Su Tong,Ma Yueqi,Huang Xiulian/
+SAECCE2023-ICV052Vehicle Platoon Motion Planning Based on Dual-Mode Strategy
+Lv Ying,Sun Liangliang,Li Haomiao,Hu Hongyu,He Lei/
+SAECCE2023-ICV060基于滑模控制的轨迹规划
+Trajectory Planning Based on Sliding Mode Control
+孔武举，尉庆国，翟冰阳，王舒畅，王毅/
+SAECCE2023-ICV063基于因子图优化和滤波的车辆跟踪
+Factor Graph and Filter Based Vehicle Tracking
+陈哲，陈慧/
+SAECCE2023-ICV064基于库位号的记忆泊车重定位方法
+An Algorithm of LAPA Relocation Based on Parking Garage Landmark
+舒丽,严义雄,赵佳丽/
+SAECCE2023-ICV065基于机器学习的汽车维保动态识别方法
+Dynamic Identification Method of Automobile Maintenance Based on Machine Learning
+黎伟洋，叶绍湘，肖欢，范宜佳/
+SAECCE2023-ICV072车道居中保持系统性能的测试评价研究
+Research on Performance Test and Evaluation of Lane Keeping System
+汤超，刘延，陆小川，陈雄，熊万全/
+SAECCE2023-ICV078基于MBSE的智能汽车信息物理系统建模方法
+Modeling Method for Intelligent Vehicle Cyber-Physical System Based on MBSE
+徐天啸，梁浩，赵静，高小栋，闫涵/
+SAECCE2023-ICV082Post-Processing Method for Lane Detection Based on Prior Knowledge and Distance Penalty
+Jiang Shang,Hu Zhishuo,Wang Yuan,Wu Bofu/
+SAECCE2023-ICV083Application of Human-Machine Co-driving in Multi-vehicle Formation of Deepracer Automatic Driving Platform
+Ye Heng,Liu Yanbo,Xu Jiahao,Du Haikuo,Sun Weiqi,Xu Wenchao,Li Zhengyu,
+Shen Zanwei,Liu Yan/
+SAECCE2023-ICV084极坐标系下基于4D雷达的扩展目标跟踪算法
+An Extended Object Tracking Algorithm in the Polar Coordinate System for 4D Automotive Millimeter-Wave Radar
+周浩文，王奇，黄小月，金家龙，宋玛君，裴文鑫，李苹，李沙，李敬征，张我弓/
+SAECCE2023-ICV085汽车全景影像系统影像质量评价方法研究
+Research on Image Quality Evaluation Method for Automotive Panoramic Imaging System
+张佩，韦建，严达，肖宁/
+SAECCE2023-ICV086Approach of Driving Skill Evaluation System Based on Vehicle Performance Optimization
+Gong Chaofan,Zong Changfu,Dai Changhua,Lu Ye,Kaku Chuyo,Zhang Dong/
+SAECCE2023-ICV089一种基于WebSocket技术的智能座舱多屏互动方法
+A Multi Screen Interaction Method for Intelligent Cockpit Laboratory
+张敬明,单泽萌,蔡建军,蔡洁，于安琪，徐铭，陈宗娟/
+SAECCE2023-ICV092基于因子分析的多场景驾驶风格识别研究
+Research on Driving Style Identification in General Scenarios Based on Factor Analysis
+张建，任明星，高勇，王超，姜洪伟，赵凤凯，张超朋，魏瑶，陈炤锟，席军强/
+SAECCE2023-ICV093军用车辆智能驾驶测试评价体系研究
+Research on the Test Evaluation System for Intelligent Driving of Military Vehicles
+李轶伦，张路阳，解来卿，石秉良，张敏/
+SAECCE2023-ICV094基于学习和规则设计的短时驾驶风格在线识别研究
+Online Recognition of Short-term Driving Style by Leveraging Machine Learning and Rule Design
+张建，高勇，任明星，姜洪伟，刘秋铮，谢飞，张超朋，陈炤锟，魏瑶，席军强/
+SAECCE2023-ICV095智能制动系统的预期功能安全分析及测试技术研究
+Research on Expected Functional Safety Analysis and Testing Technology of Intelligent Braking System
+陈景龙，张明朗，崔华芳，张亚峰/
+SAECCE2023-ICV096APA-SLAM:Lightweight Mapping and Localization System for Autonomous Parking
+Yang Yang，Liu Jianjian，Du Kuishan，Feng Wei/
+SAECCE2023-ICV097基于系统架构的智能驾驶预期功能安全危害识别方法
+A Hazard Identification Method of the Safety of the Intended Functionality of Intelligent Driving Vehicle Based on System Architecture
+李红，卜德旭，刘天泉，任芯阅/
+SAECCE2023-ICV099基于深度确定性策略梯度算法的匝道汇入决策方法
+Decision-making Method for Merging on Entrance Ramps Based on Deep Deterministic Policy Gradient Algorithm
+吕颖，刘宇杰，曹蕴涛，鲁子洋，胡宏宇/
+SAECCE2023-ICV101面向高速公路下匝道场景的智能汽车决策方法
+Intelligent Vehicle Decision-Making for Highway Exit Ramp Scenarios
+吕颖，曹蕴涛，董小瑜，杜来刚，胡宏宇/
+SAECCE2023-ICV103An Improved GA-Based Method for Generating Critical Collision Scenarios of AEB on Longitudinal Slope
+Zhang Man,He Siyuan,Wen Jize,Cheng Wendong/
+SAECCE2023-ICV104基于事故数据挖掘的紧急车道保持系统测试场景研究
+Research on Test Scenarios for Emergency Lane Keeping System Based on Accident Data Mining
+罗辑，刘继峰，程名/
+SAECCE2023-ICV112基于坐姿和体压分布的人体尺寸估计
+Estimation of Human Size Based on Sitting Position and Body Pressure Distribution
+苏钺彭，任金东，彭嘉骏，何畅，胡霖雯/
+SAECCE2023-ICV113DP-DSO:Deep Point Extraction for Direct Sparse Odometry
+Zhang Ruitao,Wang Yafei,Li Zexing,Zhang Yichen,Yin Chengliang/
+SAECCE2023-ICV115基于虚拟标定技术的整车驾驶性优化研究
+Research on Vehicle Drivability Optimization Based on Virtual Calibration Technology
+张学锋，陈国栋，刘治文，杨云波，苏海龙，王小峰/
+SAECCE2023-ICV120商业街区更新概念设计——以长春桂林路为例
+Commercial Block Renewal Conceptual Design——Taking Changchun Guilinlu as an Example
+权洪妍/
+SAECCE2023-ICV121自动驾驶仿真多逻辑场景综合评价方法
+Comprehensive Evaluation Method for Automated Vehicle in Multiple Virtual Logical Scenarios
+张培兴，秦孔建，朱冰，赵健，范天昕，赵文博/
+SAECCE2023-ICV122考虑转向延迟特性的自动驾驶车辆路径跟踪控制方法
+Path Tracking Control Method With Steering Lag for Autonomous Vehicles
+吕颖，祁旭，刘秋铮，王鑫煜，陈国迎/
+SAECCE2023-ICV123自动驾驶控制权转换的人机交互研究
+Research on Human-computer Interaction in Autonomous Driving Control Transformation
+张华桑，文翊，陈松，梁子龙，岳意娥/
+SAECCE2023-ICV124基于量子密钥的轻量化车-云身份认证方案
+A Lightweight Based on Quantum Key Authentication Scheme for IOV
+石琴,杨泽，程腾，王川宿,张星，吴泽旭，刘强/
+VOLUME Ⅱ
+二、新能源及节能减排技术
+SAECCE2023-LW006AA6016铝板热拉伸力学性能分析与不同类型本构模型对比
+Analysis of Thermal Tensile Mechanical Properties of AA6016 Aluminum Plate and Comparison of Different Types of Constitutive Models
+陆嘉鸿，李夕林，黄诗尧，包祖国，张添添，齐伟娜，詹振飞，刘庆/
+SAECCE2023-LW007Multidisciplinary Lightweight Design of Automotive Crashworthy Structure Based on Improved Gaussian Process Model
+Wang Tingting,Yao Mingkuan,Wang Mengjian,Duan Yuechen,Shao Xu/
+SAECCE2023-LW009热塑性碳纤维/尼龙6复合材料界面优化及零件快速成型工艺研究
+Interfacial Optimization and Rapid Prototyping Process of Thermoplastic Carbon Fiber/Nylon 6 Composites for Automotive Lightweight
+高聪，祝颖丹，刘伯芳，李铁虎，王志白，冯刚/
+SAECCE2023-LW011某电动越野车架的轻量化优化设计
+Lightweight Optimization Design of an Electric off-road Vehicle Frame
+谌胜，乔彦，石朝亮，江想莲/
+SAECCE2023-LW012多目标优化在正碰设计和轻量化中的应用研究
+Research on the Application of Multi-objective Optimization in the Design and Lightweight of Frontal Impact Crush
+雷艳冰，吴泽群，张子春，吴照明/
+SAECCE2023-LW013基于多学科性能提升的BIW轻量化研究
+Body in White Lightweight Based on Multidisciplinary Performance Improvement
+裴志海，吴泽群，张子春，雷艳冰/
+SAECCE2023-LW014汽车钢板电阻点焊接头动态冲击性能测评技术研究进展
+Research Progress on Dynamic Impact Performance Evaluation Technology for Resistance Spot Welding Joints of Automotive Steel Plates
+黄利,花福安,冯毅,黄光杰/
+SAECCE2023-LW015Research on the Inflence Mechanism and Lightweight of Windshield on the Stiffness of BIW
+Wang Chao，Yu Wanyuan,Cheng Aiguo,He Zhicheng/
+SAECCE2023-LW020基于HyperWorks的拖车钩组合优化设计
+Combination Optimization Design of Hook Based on HyperWorks
+王若满,王春伟,张景煌，胡晋，镇东宇/
+SAECCE2023-LW021Research on the Effect of Structural Adhesive on Mechanical Properties and Its Application in Vehicle Body Development
+Shi Chaoliang,Shen Sheng,Yin Jianzhen,Qiao Yan,Jiang Xianglian,Zhong Yang/
+SAECCE2023-LW023基于参数化发动机罩的多目标优化方法
+Multi-objective Optimization Method Based on Parameterized Engine Hood
+乔彦，石朝亮，谌胜，江想莲/
+SAECCE2023-LW025Establishment of a Failure Model for an A356 Aluminum Alloy Based on the MMC and GISSMO Theory
+Zhang Sai,Zheng Chongsong,Song Tong,Meng Xianming/
+SAECCE2023-LW026基于某SUV的悬置铝支架轻量化方案分析
+Analysis of Lightweight design for ENG MTG Aluminum BRKT Based on a Certain SUV 
+江燕青，叶锦泉，高白师，戴锐/
+SAECCE2023-LW027DFSS方法在车门玻璃升降器导轨轻量化设计中的应用
+Application of DFSS Method in Lightweight Design of Door Glass Lifter Guide Rail
+范清林,曾俊,王刚/
+SAECCE2023-EV001电驱动系统架构对纯电动汽车整车性能影响及优化
+Influence and Optimization of Electric Drive System Architecture on the Performance of Battery Electric Vehicles
+伍魏明，窦炜，程静，李千红，周诚/
+SAECCE2023-EV002Data-Driven Prediction of Energy Consumption and Remaining Mileage of New Energy Vehicles
+Tong Ruiqi，Wang Xiaoyu，Zhai Dengwang，Deng Yizhi，Dong Guoqing，
+Rajibul Islam，Ding Hong，Guo Weichao，Liu Jingyu，Li Yaohua/
+SAECCE2023-EV014居民区内电动汽车有序充电运营模式研究
+Research on Orderly Charging Operation Mode of Electric Vehicles in Residential Areas
+胡进永，赵宇龙，纪佩宁/
+SAECCE2023-EV016Performance Analysis of Methanol Steam Reforming 5kW HT-PEM Fuel Cell System
+Lin Zisheng, Yu Jiao,Liang Tao,Shen Jianyue/
+SAECCE2023-EV017某款增程器启动工况NVH优化分析
+A Range Extender Starting NVH Issue Analysis and Optimization
+范鹏，毕帅，张紫广，金永镇/
+SAECCE2023-EV019某款增程器无位置启动策略研究及应用
+Research and Application on a Range Extender Non-Position Starting Method
+范鹏，毕帅，刘军克/
+SAECCE2023-EV021基于Simulink的动力电池热管理特性研究
+Research on Thermal Management Characteristics of Power Battery Based on Simulink
+柯炯，谭必需，严雨朦，冯晓珂/
+SAECCE2023-EV024基于MPC的混合动力越野车能量管理策略研究
+Research on Energy Management Strategy of Hybrid off-road Vehicle Based on MPC
+向小龙，付畅，陆龙飞，张雍贤，郝学智，赵文虎，雷梦浩/
+SAECCE2023-EV027Occupant Injury and Structure Characteristics Analysis of New Energy Vehicle Based on Side Pole Collision
+Lin Cancan，Zhu Haitao，Xu Zhe，Yang Chunzhong/
+SAECCE2023-EV030高速内置式永磁同步电机转子系统模态分析
+Modal Analysis of the Rotor System for High-speed Interior Permanent Magnet Synchronous Motor
+王东雄，周坤，喻泽文，张经纬/
+SAECCE2023-EV031基于Cruise的燃料电池载货汽车研究与试验
+Research and Test of Fuel Cell Truck Based on Cruise
+桂航，孙鹏，周菲，田冠华，刘保增，马林/
+SAECCE2023-EV032车网互动未来规模商用的适用场景与演进趋势
+Typical Scenarios & Evolution Trend of VGI’s Large Scale Commercial Application
+胡进永，纪佩宁，赵宇龙/
+SAECCE2023-EV036电动车空调因堵塞不制冷问题研究与对策
+Research on Electric Vehicle AC not Cooling due to Blockage
+许斌，童润民/
+SAECCE2023-EV039风扇导流结构对HEV热系统性能影响研究
+Research on Influence of Fan Deflector Structure for HEV Thermal System Performance
+刘吉/
+SAECCE2023-EV042Research on Test Method of Platinum Loading in Fuel Cell Membrane Electrode
+Yao Hui，Zhang Zhongrong，Li Minghe，Yang Huiling/
+SAECCE2023-EV043燃料电池汽车低温快速冷启动性能开发
+A Solution for Rapid Cold Start Strategies of PEM Fuel Cell Vehicle
+方燕华，贺翀，陈明/
+SAECCE2023-EV047Power Battery Fault Diagnosis and Misdiagnosis Analysis of Electric Vehicles Based on Modified Shannon Entropy
+Liu Qiquan，Ma Jian，Zhao Xuan，Zhang Kai/
+SAECCE2023-EV049Modelling and Robust Temperature Control of Proton Exchange Membrane Fuel Cell Stacks on a Heavy-duty Fuel Cell Truck
+Xu Bairong, Zhang Jian, Ma Yi, Hu Yongming,Zhang Mingkai,Wan Xu/
+SAECCE2023-EV052基于造型体态的纯电轿车人机布置设计
+Ergonomic Design of Battery Electric Sedan based on Styling Features
+徐盈，张亮，何苗，张冬冬，代佳/
+SAECCE2023-EV054某款发电机控制器变频及IGBT结温保护策略研究及应用
+Research and Application of GCU Frequency Conversion and IGBT Junction Temperature Protection Method
+范鹏，毕帅/
+SAECCE2023-EV055Energy Management for Fuel Cell Vehicles Based on Improved MPC Considering Disturbance Variation
+Liu Caixia，Gao Xiao，Li Xiaoyu/
+SAECCE2023-EV056永磁同步电机辅助槽对电机性能的影响
+Effects of Auxiliary Slots on Motor Performance of Permanent Magnet Synchronous Motors
+尹秀婷，郑建军，李慧，薛亚飞/
+SAECCE2023-EV058新能源越野平台商品定义与布置策略研究
+Research on the Definition and Layout Strategy of New Energy off-road Platform
+宋瀚，周松涛，蔡静，叶乐舟，杨玄龙/
+SAECCE2023-EV059非承载式新能源车型动力电池布置研究
+Battery Pack Package Method for Separate Frame Construction New Energy Vehicle
+周松涛，叶乐舟，宋瀚，杨玄龙，蔡静/
+SAECCE2023-EV060面向智能座舱的氛围灯布置方法研究
+Research on the Layout Method of Atmosphere Lights for Intelligent Cabins
+樊友嗣，张超，陈蕾/
+SAECCE2023-EV061高速V形内置式多桥转子强度分析与设计
+Modal Analysis of the Rotor System for High-speed Interior Permanent Magnet Synchronous Motor
+周坤，王东雄/
+SAECCE2023-EV063燃油蒸发系统液态油对OBD诊断影响研究
+Study on OBD Detection Influence of Liquid Inside EVAP
+杨振礼/
+SAECCE2023-EV064基于大数据的动力电池安全预警
+Big Data Based Safety Remote Diagnosis of High Voltage Battery for Electric Vehicle
+刘凯，谢晖，黄敏，刘振勇，王勇士，王尧峰/
+SAECCE2023-EV065The Research Toward Commercial Application of High-Energy Density Solid/Liquid Hybrid Battery
+Liu Zhenyong，Zhu Jinxin，Jin Zhaoxin，Yan Junqing，Huang Min/
+SAECCE2023-EV066集成式新能源电动货车底盘附件支架设计
+The Design of Integrated Chassis Accessory Bracket for NEE Trucks
+陈猛，晏君臣，童朝阳，刘蜜婷，冷炜烨，谢文显/
+SAECCE2023-EV067后背式新能源电动货车电池框架设计
+The Design of Back Power Battery Frame for NEE Trucks
+晏君臣，陈猛，童朝阳，刘蜜婷，冷炜烨，谢文显/
+SAECCE2023-EV068Data-Driven Energy Management for Series Hybrid Electric Tracked Vehicle
+Su Qicong，Huang Ruchen，He Hongwen，Han Xuefeng/
+SAECCE2023-EV071串并联式混合动力汽车转矩及功率管理
+Torque and Power Control for a Series-parallel Hybrid Vehicle
+朱林森，谢文，张明，黄敏/
+SAECCE2023-EV072Comparative Study on Simulation and Experiment of Immersion and Traditional Indirect Cooling Battery Pack
+Zhao Qingliang, Zhang Qiushi, Liu Haitao, Li Weizi, Null Volker, Hua Lun,Wan Fulai/
+SAECCE2023-EV074基于MOSMA的PHEV汽车能量管理多目标优化及验证
+Multi-objective Optimization and Validation of a PHEV Vehicle Energy Management Based on MOSMA
+闵磊，李欣，丁元俊，王圣坤/
+SAECCE2023-EV075Experimental Evaluation of the Impact of ETF on System Efficiency
+Sun Hailiang，Li Jie，Jia Xuyan/
+SAECCE2023-EV076REV无阀式增压泄压控制技术研究及应用
+Research and Application of REV Valveless Pressure Release Control Technology
+王春鑫，陈卫方，喻骏，李楚琦，李涵/
+SAECCE2023-EV077车用锂离子电池参数辨识及其SOC估计
+Parameter Identification and SOC Estimation of Lithium-ion Batteries for Vehicles
+刘志喜，陈韬，陈大昕/
+SAECCE2023-EV080基于扩展卡尔曼滤波的车用燃料电池膜湿度状态实时估计
+Real-time State Estimation of Fuel Cell Membrane Humidity Based on Extended Kalman Filter
+邹巍涛，李建威，闫崇浩，罗磊/
+SAECCE2023-EV084基于双通道LeNet网络的车载氢系统泄漏诊断方法
+A Leakage Diagnosis Method for Vehicle Hydrogen System Based on Dual Channel LeNet Network
+闫崇浩，李建威，邹威涛，杨璐铭，田忠昊，王天赐/
+SAECCE2023-EV085某BEV车型的水源与空气源热泵控制策略研究
+Research on Control Strategy of Water Source and Air Source Heat Pump for BEV
+董哲明，强健伟，施睿，王小碧，王伟民，付静，唐禹，傅小嘉，贺其富/
+SAECCE2023-EV087某电动车顶盖横梁胶粘失效问题分析及优化
+Analysis and Optimization of an Electric Vehicle Top Cover Crossbeam Adhesive Failure Problem
+孙立伟，马明辉，何洪军，王宁，于保君，肖永富/
+SAECCE2023-EV094Research on Optimum Health Characteristics of State of Health Estimation based on Support Vector Regression for On-board Lithium-Ion Battery Pack
+Song Lingjun，Bai Yuxin，Liu Yin/
+SAECCE2023-EV097软包电池SOC使用上限对安全性的影响研究
+Study on the Impact of the Upper Limit of SOC Use on the Safety of Pouch Cell
+梁晶晶，穆宝，张永跃，刘磊，张守芹，耿兆杰，袁文静，黄荣，李鹏/
+SAECCE2023-EV103提高基于安时积分法估算动力电池SOC精度的方法研究
+Research on Improving the SOC Accuracy of Power Battery Estimation Based on Ampere-hour Integral Method
+孟繁雨，吴道明，夏洋/
+SAECCE2023-EV104A Novel Real-Time Data-Based PEMFC Performance Evaluation Model Using Improved PCA-KMEANS-XGBOOST for PEMFC Hybrid Vehicles in China
+Yuan Xinjie，Zhuang Linlin，Hou Zhongjun/
+SAECCE2023-EV109纯电动乘用车续驶里程和能耗评价及优化方法研究
+Research on Evaluation and Optimization of Driving Range and Energy Consumption of Pure Electric Passenger Vehicles
+王岭，辛力，田威/
+SAECCE2023-EV111基于规则结合ECMS的四驱混合动力汽车能量管理策略
+Energy Management of a 4WD Hybrid Electric Vehicle Based on Rules Combined with ECMS
+皮冬，张明，黄敏，王必涛，张雅/
+SAECCE2023-EV112内外置加热触发热失控的实验研究
+Experimental Study of Internal and External Heating-triggered Thermal Runaway
+李由姿，李宁，刘耕，黄荣，袁文静/
+SAECCE2023-EV113Research on Output Harmonic Suppression of Parallel Multi-level Motor Simulators
+Huang Jianqi，Li Qi，Liu Chaohui，Li Zhichao，Zhang Yujin，Wang Dafang/
+SAECCE2023-EV114One Phase Open Circuit Fault-Tolerant Control Strategy of Three-Phase Permanent Magnet Synchronous Motor Considering Torque Loss
+Zhang Yujin，Li Qi，Li Shuai，Kong Dekuan，Wang Dafang/
+SAECCE2023-EV115一种用于氢气浓度可视化图像重构的多源数据融合技术
+A Multi-source Data Fusion Technology for Visual Image Reconstruction of Hydrogen Concentration
+李永泽，李建威，邹巍涛，田忠昊/
+SAECCE2023-EV116Improved Fusion Strategy of the Sensorless Control for PMSM Based on Variable-Amplitude Pulsating-Voltage Injection
+Kong Dekuan，Li Qi，Jian Fangheng，Liu Chaohui，Li Zhichao，Huang Jianqi，Wang Dafang/
+SAECCE2023-EV119基于MA-GHCKF算法的分布式电动汽车状态参数估计
+Distributed Electric Vehicle Based on MA-GHCKF Algorithm State Parameter Estimation
+赵天祥，罗晓彤/
+SAECCE2023-EV120Analysis of the Impact of Threshold Beam on Battery Protection Based on Side Impact Characteristics
+Li Jian，Hou Chunsheng，Xie Man/
+SAECCE2023-EV123Development and Analysis of Fast-Charging Model of Electric Vehicles
+Xie  Hong，Shi Laifeng，Huang Xiguang，Qin Zhixin，Cui Zhibing，Li Jiajia/
+SAECCE2023-EV127A Novel Framework for the SOC and SOH Co-estimation Based on AEKF and LSTM
+Li Kuo，Lyu Mohan，Li Xiaoyu/
+SAECCE2023-EV128某增程器式混合动力车型驻车发电声品质改善研究
+Research on Noise and Sound Quality Improvement of Parking Charging Conditions for REEV
+王江涛，周志，李德全，张继明，邓强，冯桂军，张文响，袁杰/
+SAECCE2023-EV129Research on the Telegraphic Sound of A Hybrid Electric Vehicle When Starting at Low Temperature
+Ma Zihui, Chen Weiwei, Lv Haohua/
+SAECCE2023-EV130新能源汽车锂离子电池组的均衡控制研究综述
+Review on Equalization Control of Lithium-ion Battery Packs for New Energy Vehicles
+梁勐涵/
+SAECCE2023-EV131锂离子电池热失控及早期预警研究综述
+Review on Thermal Runaway and Early Warning of Lithium-Ion Battery
+张文涛/
+SAECCE2023-EV133驱动电机转子参数影响因子研究
+Research on Rotor Parameters Influence Factor of Driven Motor
+刘光华，徐刚，李婷，刘天知，周祖清/
+SAECCE2023-EV134脉冲电流加热电池技术在整车上的应用
+Application of Pulse Current Heating Battery Technology in Vehicle
+邢俊亚，许心一，彭杨茗，刘爽，王洪涛/
+SAECCE2023-EV135Study on the Impact of Thermal Management System and Heat Utilization Strategy on Energy Consumption of Electric Vehicles under Low-Temperature
+Fang Jinrong，Yang Shuo，Wang Puxi，Zhang Zhihui，Li Song，Zeng Dong/
+SAECCE2023-EV137基于MPS方法的油冷电驱系统润滑特性分析
+Analysis of Lubrication Characteristics of Oil Cooled Electric Drive System Based on MPS Method
+王鑫，王涛，赵晨/
+SAECCE2023-EV138适合整体/局部热舒适性评价的新型PMV模型
+Novel PMV Model Suitable for Overall/Local Thermal Comfort Evaluation
+凌和平，姜龙，路紫阳，朱宇翔，贺斌/
+SAECCE2023-EV142考虑逆变器开关频率的电驱动系统振动特性
+Vibration Characteristics of Electric Powertrain Considering Inverter Switching Frequency
+刘坤, 吴维, 杜长虹，卢国成，苑士华/
+SAECCE2023-EV143A Review of Learning Algorithm for Hybrid Electric Vehicle Energy Management Strategy
+Wu Shangru，Chen Yong，Pan Jinwang，Zhong Binglong，Luo Li/
+SAECCE2023-EV144Study on the Safety Performance of Lithium-ion Batteries with Different Cathode Materials
+Zhang Chi, Hong Jichao/
+SAECCE2023-EV145Body Structure Design of Pure Electric Vehicle Based on Topology Optimization
+Mao Lizhong，Guo Chen，Chen Cheng/
+SAECCE2023-EV146Study on the Influence of Cold Start on Pollutant Emission of Heavy-duty Hybrid Electric Vehicle
+Xu Dandan, Jing Xiaojun,Li Tengteng/
+SAECCE2023-EV147新能源乘用车总装模块化工艺设计实践
+Design Practice of Modular Process for New Energy Passenger Vehicle Final Assembly Workshop
+严星，卢俊康，许宝强，肖康宝，万小飞/
+SAECCE2023-EV148Advancements in Battery Management Systems for Electric Vehicle Battery Fault Diagnosis: A Comprehensive Review of Model-Based and Machine Learning Methods
+Lian Yubo, Xiao Zhiqian, Ling Heping, Pan Hua, Xie Zhao/
+SAECCE2023-EV152Study on the Negative Effect of Unsprung Mass in IWM Vehicles
+Yang Ping，Zhao Chunlai，Yang Di，Liu Kang，Zhang Zeyang，Zhang Guoqing/
+SAECCE2023-EV155油冷电机绕组喷淋冷却数值模拟与研究
+Numerical Simulation and Study of Winding Spray Cooling of Oil-Cooled Motor
+陈小健，李婷，徐刚，朱梦楠，吴爱华，杨文洁/
+SAECCE2023-EE003Study on Thermal Aging Degree Characterization of Cu-Ce-SSZ-13 SCR Molecular Sieve Catalyst
+Liu Yue,Jia Xuyan,Wang Xiaowei,Li Zhaoqiang/
+SAECCE2023-EE004刺块TiO2-G复合材料降解车内甲醛性能及应用研究
+Performance of Prickly Block TiO2-G Composites in Degrading Formaldehyde in Vehicles and Application Study
+唐毅，凌黄宝，张豪，庄港豪，周铭/
+SAECCE2023-EE006静电对国六燃油系统蒸发泄漏诊断的影响研究
+Research on the Influence of Static Electricity on China 6 Fuel System Evaporative Leakage Diagnosis
+周维，常菁菁，马信，渠胜华/
+SAECCE2023-EE007The EMS Control of PN Emission Based on GDI Engine Without GPF
+Song Tiebing,Liu Zhaoyang,Gu Jiaxin,Miao Shuxia,Tian Xu,
+Guo Wei,Zhang Shuai,Bai Baoguo/
+SAECCE2023-EE008Estimation Model for Evaporative Emissions from the NIRCO System of OVC-HEV
+Yin Jianli,Gong Baoli,Wang Kun,Hu Jun,Xu Hualong/
+SAECCE2023-EE011Effects of Blending Biodiesel on the Emissions of Heavy-Duty Diesel Vehicles at Different Altitudes
+Zhao Jianfu,Liu Zhiwei,Li Tengteng,Jiang Shuchen,Gao Zhongming,Wang Yueqi/
+SAECCE2023-EE016聚甲氧基二甲醚燃烧动力学研究
+Study on Combustion Kinetics of Polyoxymethylene Dimethyl Ethers
+张鸣稚，李宁，王凤滨/
+SAECCE2023-EE017Effects of Different Test Conditions on Pollutant Emissions from Methanol-Fueled Vehicles
+Li Xintong,Zheng Jinlong,Xie Qiyuan,Zhang Ke,Chen Zhanwu,Lai Shulin/
+SAECCE2023-EE018基于动力总成台架的排放前移关键技术研究
+The Research on Key Technologies of Emission Forward Based on Powertrain Bench
+陈苏佑，李仕成，张顺/
+SAECCE2023-EE020轻型汽油车NH3排放研究
+Research on NH3 Emission of Light Duty Gasoline Vehicle
+方娜,陈涛,管永超,方勇,万建,刘成,田颖,秦建宾,王小涛,康文霞/
+SAECCE2023-EE027轻型混合动力汽车细小颗粒物排放特性研究
+Emission Characteristics of Fine Particles from Light-duty Hybrid Electric Vehicle
+解骐远,赖书林,李昕瞳/
+SAECCE2023-EE029基于性能标定开发的节温器诊断用发动机冷却系统建模及试验研究
+Modeling and Experimental Research of Engine Cooling System for Thermostat performance calibration and monitoring
+李海,孟艳玲，于磊罡，刘存玺，刘勇军，谭家彬/
+SAECCE2023-EE030Introduction of Tyre Abrasion Rate and An On-Vehicle Test Method to Measure It
+Biesse Frederic,Oelze Benjamin,Cai Lingjie/
+VOLUME Ⅲ
+三、汽车动力总成技术
+SAECCE2023-IEE008Establishment and Application of National 6 Heavy Duty Diesel Vehicle Virtual Testbed
+Lyu He，Wang Mengyuan，Li Jingyuan/
+SAECCE2023-IEE014某1.5L自吸发动机性能开发及试验验证
+Performance Development and Experimental Verification of a 1.5L Naturally Aspirated Engine
+邹雄才，严军，庹汉郧，张文龙，严冬，周晓磊/
+SAECCE2023-IEE015提高发动机机油消耗量测量精度方法探讨
+The Discussion on Improving the Measuring Accuracy of Engine Oil Consumption
+余政宏/
+SAECCE2023-IEE018高热效率点燃压燃单缸机试验研究
+Test Research Base on SICI Combustion Model of a Single Cylinder Engine
+姚聪，蔡文新/
+SAECCE2023-IEE020基于WLTC循环的增程式电动汽车能耗分析
+Energy Consumption Analysis of Extend-Range Electric Vehicles with Different Control Strategies Based on WLTC Cycle
+尹黛霖,赵笑春,罗佳鑫,温溢/
+SAECCE2023-IEE023某轻型柴油机增压器瞬态超速保护方法
+Overspeed Protection Method for a Light Diesel Engine’s Turbocharger
+高光哲，李利员，沈昊，李书伟，金明，刘凯，余国强，李平/
+SAECCE2023-IEE026Engine Lubrcation with Ultra Thin Oil
+Zhou Quanbao,Hu Tiegang/
+SAECCE2023-IEE027喷水对氩气动力循环氢气机燃烧特性影响的建模与仿真研究
+Modelling and Simulation of Water Injection on Characteristics of Combustion for Hydrogen-Fueled Argon Power Cycle Engine
+唐泳健，邓仁杰，王晨旭，邓俊，李理光/
+SAECCE2023-IEE028Research on Split Lubrication Technology for Gasoline Engines
+Ouyang Dan,Zhang Lizhu,Shi Fayi,Tian Ning,Liu Cheng,Cai Wenxing,Wan Jian,
+Shang Wenqiang,Ding Wei,Liu Xianghui,Xiang Fei,Xiong Di,Xiang Gao,Yan Dong,Yin Manli/
+SAECCE2023-IEE035被动预燃室引燃的氩氧氛围氢燃料燃烧特性研究
+Combustion Characteristics of Hydrogen Fuel in Argon-Oxygen Atmosphere Ignited by Passive Pre-chamber
+马哲，杨豪，邓俊，唐泳健，王晨旭，李理光/
+SAECCE2023-IEE038面向国六的某重型柴油机空气系统匹配研究
+Research on Air System Matching of a Heavy Duty Diesel Engine for CN 6
+胡崴，赵艳婷,向辉，陈功军，张辉亚/
+SAECCE2023-IEE040Experimental Development and Key Technology Research of High Efficiency Lean Burn Engine
+Hu Ke,Yuan Shuang,Lyu Xibin,Zhao Junxin,Ma Junjie,Wei Hong,Zhao Fucheng/
+SAECCE2023-IEE041A Study of Injector Matching on a High Thermal Efficiency TGDI Gasoline Engine
+Huang Qianhai,Ling Qinghai,Lian Yuan,Jiang Xiaolin,Tang Jiang,Tang Derun/
+SAECCE2023-IEE042稀薄燃烧汽油发动机预燃室系统开发
+Development of Prechamber System for Lean-burn Gasoline Engine
+胡祎诺，马俊杰，袁爽，韦虹，刘鑫，赵俊鑫，赵鹏飞，赵福成/
+SAECCE2023-IEE044聚醚型基础油(PAG)的研究与应用概述
+Overview of Research and Application of Polyalkylene Glycol Base Oil
+刘智峰，黄卿，张荷，薛卫国/
+SAECCE2023-IEE045Geely’s Lean-Burn Gasoline Engine with Brake Thermal Efficiency of 46%
+Yuan Shuang,Wei Hong,Zhang Yuandong,Liu Xin,Ma Xuejian,Ding Jiaqing,Hu Ke,
+Lu Xibinn,Ma Junjie,Zhao Fucheng/
+SAECCE2023-IEE048缸内直喷氢气内燃机动力经济性优化研究
+Research on Optimization of Power Economy of Direct Injection Hydrogen Internal Combustion Engine
+段少远，庹汉郧，周晓磊，靳晓妍，方勇，杨章俊/
+SAECCE2023-IEE050电气化背景下的发动机冷却系统设计
+Gasoline Engine Cooling System Design under Electrification Scenario
+杨志勇，沈惠贤，薛亚飞，张清彪，郑建军，蒲运平/
+SAECCE2023-IEE052涡流强度对点燃-压燃模式发动机性能影响研究
+Effects of Swirl Intensity on the Performance of the Spark-Induced-Compression-Ignition Mode Engine
+周梦祥，严冬，蔡文新/
+SAECCE2023-IEE055氨氢掺混比对氨气燃烧过程影响的化学动力学模拟研究
+Chemical Kinetic Simulation Study of the Effect of Ammonia-Hydrogen Blending Ratio on the Combustion Process of Ammonia Gas
+王新宇，熊绪坤，邓俊，康哲/
+SAECCE2023-IEE056定容燃烧弹内闪沸燃烧研究
+Investigation of Flash Boiling Spray Combustion in a Constant Volume Combustion Chamber
+罗徐霖，李岩松，崔明利，孔令逊，李雪松，许敏/
+SAECCE2023-IEE057预燃室超音速射流激波串参数与点火特性研究
+Investigation on Shock Train Parameters and Ignition Characteristics Induced by Pre-Chamber Supersonic Jet
+张翼霄，马骁，毛建树，方钰文，王志，帅石金/
+SAECCE2023-IEE060氢气机效率与功率密度提升的热力学分析
+Thermodynamic Analysis on Efficiency and Power Density Improvement of Hydrogen-Fueled Internal Combustion Engine
+周延雄，王晨旭，邓俊，李理光/
+SAECCE2023-IEE061基于模型标定的发动机DVVT控制参数优化研究
+Research on the Optimization of Engine DVVT Via Model-Based Calibration Method
+龙焱祥，符良才，邹康权，郑财红，张明朗/
+SAECCE2023-IEE063燃烧室缩口结构对柴油机雾化和燃烧影响的模拟
+Simulation of the Effects of Chamber Shrinking Structure on Diesel Engine Atomization and Combustion Process
+郝靖/
+SAECCE2023-IEE065氢燃料内燃机燃烧控制参数对性能及排放的影响研究
+Effect of Combustion Control Parameters on Performance and Emission for Hydrogen Internal Combustion Engine
+吴涛阳，刘吉绪，吴春玲，刘佳佳，刘斌，景晓军，郭向阳，庞国民，
+王宇松，王振宇,闫鹏勇/
+SAECCE2023-IEE066Engine Retrofit and Electronic Fuel Injection Parameter Design Based on the Fuel-Efficient Racing Vehicle
+Liu Quanfeng,Wang Tianyi,Dong Hengpu,Zhang Shuming,Fang Liang/
+SAECCE2023-IEE074Technology Trends on Automobile Engine Development under the Background of Carbon Peak and Carbon Neutrality Strategy
+Li Qian，Zhang Caizhi，Tang Xuelin，Chen Tangming，Xue Yafei，Hu Tiegang，Wu Xuesong/
+SAECCE2023-IEE075基于整机温度场的缸体水套优化设计
+Depth Design of Cylinder Block Water Jacket Based on Simulation Analysis
+韩力春，田小飞，高宏伟，张静，张艳青/
+SAECCE2023-IEE076一种基于GT-SUITE模型的Speedgoat HIL测试系统研究
+Research on Speedgoat HIL Testing System Based on GT-SUITE Model 
+刘小龙，刘振华，潘旭，黄超，吕琼，徐丹/
+SAECCE2023-IEE077氢气发动机爆燃试验研究
+Research on Knock Test of Hydrogen Engine
+王静波，陈龙，陈卫方，许瑞，段少远/
+SAECCE2023-CIT003基于六西格玛的某电动SUV转向传动比稳健性设计
+Robust Design of Steering Raito of an Electric SUV Based on Six Sigma Method
+王英南，郝文权，蒋永峰，汤敏，李论/
+SAECCE2023-CIT008过驱动电动汽车底盘稳定性协调控制
+Chassis Stability Coordination Control of Over-Actuated Electric Vehicle
+万正宇，李泽彬，赵月，孙国正，丁宗阳/
+SAECCE2023-CIT012基于AMESim-Simulink-TruckSim联合仿真的商用车电动助力制动系统设计与研究
+Design and Research of Commercial Vehicle Electric Power Braking System Based on AMESim-Simulink-TruckSim Co-simulation
+熊自远，魏翼鹰，潘旭，李栋文，张鑫，刘双平，张衡/
+SAECCE2023-CIT015EHPS助力转向特性曲线设计
+EHPS Power Steering Characteristic Curve Design
+贺帅，邓园,徐文进/
+SAECCE2023-CIT016纯电MPV车型制动车身收敛问题的探索研究
+Exploration and Research on the Convergence of Brake Body for Pure Electric MPV Vehicle
+王爱岭，陈巍，张伦维/
+SAECCE2023-CIT017Performance Decoupling and Optimization of Non-Pneumatic Tires based on Structured Modeling
+Lu Dang,Wang Xiaofan,Wu Haidong,Chen Nanshi,Cheng Jian,Zhang Zhenwei/
+SAECCE2023-CIT019扭力梁悬架的参数化柔性建模及K&C分析
+Parametric Flexible Modeling and K&C Analysis for Torsion Beam Suspension
+李杰鸿，戴锐，李建坤，毛丽臣，段民封/
+SAECCE2023-CIT020一种用于路感模拟的操纵力矩鲁棒控制方法
+A Robust Steering Torque Control Method for Road Feel Generation
+冯振辉，赵亮，何杰，程昆朋，陈慧/
+SAECCE2023-CIT021尺寸公差对E型多连杆悬架四轮定位参数的影响研究
+Research on the Effect of Tolerances on Four Wheel Alignment Parameters of E-Type Multi-Link Suspension
+郑耀凯，贺志瑛，叶小军，朱永亮，谭建伟，徐茂林/
+SAECCE2023-CIT024主动悬架自适应神经网络滑模控制研究
+Research on Adaptive Neural Network Sliding Mode Control Method for Active Suspensions
+龙江启，胡飞淳，尚婷/
+SAECCE2023-CIT026Research on Robust Stability of Vehicleunder Crosswind Disturbance Based on H∞Norm
+Liu Xiaojiao，Shi Shuming，Ma Zehui，Zhang Boshi，Yu Shuyou，Lin Nan/
+SAECCE2023-CIT027无人驾驶港口集卡转向拉杆系统设计
+Design of Truck Steering Linkage System in Unmanned Port
+李安元，杜喜阳，黄志刚，窦桂忠，王金胜，杨小见/
+SAECCE2023-CIT029制动盘温升对轮毂电机影响分析
+Influence Analysis of Brake Disc Temperature Rise on In-wheel Motor
+徐骞，张静雯，崔玉涛/
+SAECCE2023-CIT030不足转向度及侧风稳定性补偿控制策略研究
+Research on Compensation Control Strategy of Understeering and Crosswind Stability
+张凯,蒋永峰,郝文权/
+SAECCE2023-CIT031一款新能源乘用车溃缩机构踏板结构介绍及溃缩行程研究
+Introduction to the Pedal Structure and Research on the Collapse Stroke of a New Energy Passenger Vehicle Collapse Mechanism
+徐涛，田立胜，杨进斌，韩瑞远，杨启民/
+SAECCE2023-CIT036Electric Vehicle Motion Control by Longitude Acceleration Trajectory Planning
+Xue Xiaorui,Sun Yue,Hu Zhiming,Wang Zhenfeng,Liao Yinsheng/
+SAECCE2023-CIT037特种越野车辆回正性能提升关键因素研究
+Research on the Key Factors of Improving the Performance of Special Off-Road Vehicle’s Returnability
+周二超，刘学，司小云，马治，赵永刚，荆凯，裴伟超/
+SAECCE2023-CIT041油气弹簧左右互联车辆侧倾稳定性研究
+Research on Roll Stability of Hydro-Pneumatic Spring Left and Right Interconnected Vehicle
+陈思，樊广阔，李明阳，赵永刚，司小云，张亮/
+SAECCE2023-CIT042EPB备份制动系统制动距离影响因素研究
+Research on the Factors Influencing the Braking Distance of EPB Backup Braking System
+尹佳超，张静雯，王玉坤，闫涛卫/
+SAECCE2023-CIT045某车型麦弗逊悬架减振器外筒开裂分析及优化
+Analysis and Optimization of a Car McPherson Suspension Shock Absorbertube Cracking
+周言和，左厚琼，黄义民，孙洪福，李方，李煌/
+SAECCE2023-CIT047基于凸包算法的主动悬架控制研究
+Research on Active Suspension Systems Control Based on Convex-hull Algorithm
+孙跃，薛小芮，胡志明，王振峰，张皓发，廖银生/
+SAECCE2023-CIT052基于TTR算法的半挂汽车列车防侧翻控制策略研究
+Research on Anti-Reinforcement Strategy Based on TTR Algorithm-Based Traction Vehicles
+赵可，韩艳辉，陈龙，徐泽源，王嘉程，彭旖雯，周伟剑/
+SAECCE2023-CIT056Simulation on Vertical Displacement and Vertical Force Distribution of Snow Under Tracked Vehicle
+Zhu Ming,Yan Qingdong,Wei Wei,Liu Cheng,Wang Meiwei,Meng Qingkai,
+Liu Jianfen,Li Pengyu,Li Dongqing,Peng Qingjun/
+SAECCE2023-CIT060基于驾驶体验的加速踏板Map设计方法研究
+Research on Design Method of Accelerator Pedal Map Based on Driving Experience
+叶晓明，刘小燕，盛俏，石昕祺，杨斯奇/
+SAECCE2023-CIT061具有延迟补偿功能的主动后轮转向最优控制策略
+Optimal Control Strategy for Active Rear-Wheel Steering with Delay Compensation
+王绪龙，张伟，刘佳勇，陈国迎/
+SAECCE2023-CIT063Vehicle Torque Model Predictive Control based on Adaptivesoft Boundary Constraint
+Chao Yuedong，Wang Haiquan，Sun Peisheng，Xia Daxing，Yang Guikang，
+Qian Pengfei，Zhong Jun，Liu Yiqiang/
+SAECCE2023-TT001某型混动变速器中间输出齿轮支撑轴承卡环断裂失效分析
+Failure Analysis of Intermediate Output Gear Bearing Snap Ring for a Hybrid Transmission
+王昭，钟伟红，孙峰，姚文博，谭艳军，马勇/
+SAECCE2023-TT002基于NI平台的自动变速器硬件在环测试系统研究与应用
+Research and Application of Automatic Transmission Hardware-in-the-Loop Test System Based On NI Platform
+熊自远，潘旭，李栋文，张鑫，刘双平，张衡/
+SAECCE2023-TT003Research on Optimal Shift Schedule for Multi-Speed Electric Vehicle Based on Trajectory Prediction
+Lu Zhenghong,Dong Wenlong,Huang Yong/
+SAECCE2023-TT004基于硬件在环的自动变速器控制器自动化测试及标定优化
+Automatic Testing and Calibration Optimization of Automatic Transmission Controller Based on Hardware-in-the-Loop
+熊自远，潘旭，李栋文，赵毅，张鑫，刘双平，张衡/
+SAECCE2023-TT005某DHT电驱动总成产品系列的模块化开发应用研究
+ Research on Modular Development of DHT Product Series
+章帅韬，陈亘，王丹，宋扬/
+SAECCE2023-TT009An eTC-based Dedicated Hybrid Transmission Scheme and Vehicle Performance Analysis
+Zhao Qian,Zhao Lijin,Xing Jie,Duan Zhihui/
+SAECCE2023-TT011双离合自动变速器车辆行驶数据采集和预处理方法研究
+Research on Driving Data Acquisition and Preprocessing Methods of Dual-Clutch Automatic Transmission Vehicles
+夏宇，孙冬野，刘斌/
+SAECCE2023-EV088混动变速器行星排润滑影响因素研究
+Study on Influencing Factors of Planetary Lubrication of Hybrid Transmission
+李曼丽，雷君，柯孟龙，唐琛，刘欢/
+VOLUME Ⅳ
+四、汽车设计技术
+SAECCE2023-NVH001缓冲点布置对背门抖动的贡献量分析
+Contribution Analysic of Buffer Point Layout to Tailgate Vibration
+衣本钢，黄美霞,邱寿发,田洪生,黄小兰/
+SAECCE2023-NVH005某纯电动车电驱总成异响分析及优化研究
+Analysis and Optimization of Abnormal Sound of Vehicle’s Electric Drive Assembly
+孟斌，雷君，聂少文，王德伟，曹大顾/
+SAECCE2023-NVH007利用安全气囊抑制方向盘抖动方案研究
+Research on the Scheme of Steering Wheel Jitter Suppression by Airbag
+左跃云，方燕华，邓峰，张浩，王毅/
+SAECCE2023-NVH008基于时域时差和希尔伯特变换的异响源诊断
+Abnormal Noise Diagnosis Based on Time-Difference & Hilbert Transform
+左跃云，雷悦，刘荣昌，孙亚坤/
+SAECCE2023-NVH011某车型Rattle噪声量化分析及优化
+The Quantitative Analysis and Improvement of One Vehicle Rattle Noise
+严家，韩旭鑫，李阳,乔萌,张飞兵,朱丽丹/
+SAECCE2023-NVH012基于频率加权滤波的汽车抖动评价研究
+Research on Vehicle Vibration Evaluation Based on Frequency Weighted Filter
+严家,李阳,张飞兵,赵鹏,李平,朱丽丹/
+SAECCE2023-NVH013某电驱总成电机啸叫问题机理研究及优化
+Mechanism Analysis and Optimization of e-Motor Whine Noise for a EDS
+张飞兵,谭建设,李艻,顾纬国/
+SAECCE2023-NVH019Research for Vehicle Idle Vibration Control Based on Ball-Type Constant Velocity Joint
+Zhao Xu,Zhang Jizhong,Li Minghua,Li Kangning,Huang Haiming/
+SAECCE2023-NVH020Mechanism Analysis on the Flow Induced Low-Frequency Noise in NEV
+Yang Meng,Zhao Quan,Sun Zuokui,Zhang Yongren,Liu Ping/
+SAECCE2023-NVH021A Research on the Simulation Method of Bumper Response Characteristics Based on Pulse Knocking Condition
+Yan Xin,Wang Ying,Yin Tingyu,Quan Xinhui,Du Jian,Lian Di,Shi Jinglong,
+Gao Han,Zhang Decong/
+SAECCE2023-NVH025一种径向电磁力相位变换的振动噪声优化方法
+A Vibration and Noise Optimization Method for Radial Electromagnetic Force Phase Transformation
+龚海清，方程，黄敏，崔嵘，赵生亮，徐鹏飞，张紫广/
+SAECCE2023-NVH027某车型后排气流噪声改善
+The Improvements of Air Flow Sound in the Rear of a Car
+汤蔚聪，张铭成，李茜茜/
+SAECCE2023-NVH028基于VMD和模糊函数抑制交叉项的Wigner-Ville时频分析方法
+Wigner-Ville Time-frequency Analysis Method Based on VMD and Fuzzy Function to Suppress Cross Terms
+陈新全，杨诚，赵迪/
+SAECCE2023-NVH029某款乘用车汽油发动机冷机怠速敲击异响问题试验解析
+Experimental Analysis on Abnormal Knocking Noise of a Passenger Car with Gasoline Engine under Cold Idle Condition
+赵进兵，邓峰，杨国芳，赵松,杨磊,陶书杰/
+SAECCE2023-NVH030Research on Tortional Vibration Characteristics of Series Spring Damper for Hybrid Electric Vehicle
+Liu Peng,Chen Zhiyuan,Yang Qi,Chen Hanshuang,Tian Zilong,Ren Chao/
+SAECCE2023-NVH033纯电动汽车高速工况下底盘后部空腔引起低频噪声问题的分析改进
+Analysis and Improvement of Low Frequency Noise Caused by Rear Cavity of Chassis in High Speed Condition of Electric Vehicle
+沈龙,张军,秦宾/
+SAECCE2023-NVH034汽车空调HVAC低频涡流噪声研究
+Research on Low Frequency Vortex Noise of Vehicle Air-conditioner HVAC
+李伟，林宇，李兴泉，赵勤，邓仁伟/
+SAECCE2023-NVH039某水泥搅拌车降怠速振动性能开发
+Development of Reducing Idle Vibration Performance of Cement Mixer Truck
+夏毓芳,杨少刚，曹源，刘宗晟，董力铭，张卓/
+SAECCE2023-NVH040识别和分离某柴油机罩盖结构传递及透射噪声
+Identifying and Separating the Transmission and Transmission Noise of a Diesel Engine Cover Structure
+王佳，谭征宇，徐成辉，凌晨昊/
+SAECCE2023-NVH041基于多信息法识别某柴油机表面声源及贡献度
+Recognize the Surface Sound Source and Contribution of a Diesel Engine Based on Multi-information Method
+王佳，谭征宇，徐成辉，凌晨昊/
+SAECCE2023-NVH043Study on Coupled Vibration-Impact Modeling of Vehicle Mounting and Driveline System
+Zhang Zhijun,Yang Xianwu,Zhao Jie,Zhao Qin,Tang Yu,Zhang Chunbo/
+SAECCE2023-NVH044Research on the Control Strategy of Tire Cavity Resonance Noise in Vehicle
+Feng Zhan,Liu Hao,Luo Ting,Xu Yanping,Lu Yuan,Tang Yadong/
+SAECCE2023-NVH045Research on the Control Strategy of Acceleration Lateral Vibration
+Gong Yipeng,Wang Yongliang,Zuo Yueyun,Tang Yadong/
+SAECCE2023-NVH049基于噪声与振动响应的电动车窗升降共振研究
+Research on Resonant Sound During Window Lifting Based on Noise and Vibration Response
+熊忠伟/
+SAECCE2023-NVH051解耦模式液压悬置高频振动特性分析方法研究
+Research on Analysis Method for High Frequency Vibration Characteristics of Hydraulic Mount in Decoupling Mode
+邱永进，王芳宇，吕之品，代炜/
+SAECCE2023-NVH052基于整车传动间隙测试的tip-in撞击异响优化
+Tip-in Clunk Noise Optimize Based on Vehicle Transmission Backlash Test
+周宗琳，陈志远，汤环球/
+SAECCE2023-NVH053Research on Combustion Noise of Hybrid Special Engines
+Liu Wenqiang,Fei Longpan,Gong Bing,Xu Yongjiang,Deng Xiaolong/
+SAECCE2023-NVH054Research on Electromagnetic Noise Optimization of Permanent Magnet Synchronous Motor Based on Harmonic Injection
+Li Jifang,Qiu Zizhen,Huang Xin,Kong Zhiguo,Wang Fang,Ji Xiang/
+SAECCE2023-NVH055动力总成阶次引起的整车加速噪声粗糙感解析与改善
+Analysis and Improvement of Vehicle Acceleration Noise Roughness Caused by Powertrain Order
+邓休，周副权，屈少举，李星，代炜，刘浩/
+SAECCE2023-NVH057基于钣金黏弹异响的水性电泳底漆固化环境研究
+Study on Curing Environment Water-based Electrophoretic Primer Based on Viscoelastic Noise of Sheet Metal
+鲍麒同，梁波，刘见，张仕全，张荣荣/
+SAECCE2023-NVH061刮水器刮刷异响解析及音品质提升
+Analysis of Wiping Noise and Improvement of Sound Quality on Wiper
+陈传永，葛春华，姚慧强，张二荣/
+SAECCE2023-NVH062汽油机正时张紧器参数对噪声影响的探究
+Research on the Influence of Engine Timing Tensioner Parameters on Noise
+刘钊,杨华,束元,曹诚,郁晓斐,张继军/
+SAECCE2023-NVH063铝合金车轮对路面噪声影响分析
+Analysis of the Influenceon Road Noise of Alloy Wheels 
+叶锦泉，李建坤，戴锐/
+SAECCE2023-NVH064Engine Mount Stopper Abnormal Noise Analytical Method and Solution
+Ye Jinquan,Jiang Yanqing,Gao Baishi,Dai Rui/
+SAECCE2023-NVH065某乘用车车型发动机悬置异响的检查方法与解决方案
+Abnormal Noise Analysis of Hydraulic ENG MTG in Passenger Vehicle
+高白师,叶锦泉,江燕青,戴锐/
+SAECCE2023-NVH071基于OTPA和感度分析的变速器齿轮噪声问题研究
+Research on Transmission Gear Noise Based on OTPA and Sensitivity Analysis
+田飞，魏晓博，陈乐德/
+SAECCE2023-NVH073基于传递路径分析和工作模态的路面结构噪声诊断与控制
+Detection and Control of Pavement Structural Noise Based on Transfer Path Analysis and Working Mode
+魏晓博，田飞，周冲/
+SAECCE2023-NVH074基于悬架传递特性的路噪性能预测方法研究
+Research on Road Noise Performance Prediction Method Based on Suspension Transmission Characteristics
+魏晓博，罗云峰，田飞，吴丹，陈乐德/
+SAECCE2023-NVH077基于试验验证的永磁同步电机电磁噪声优化方法探讨
+Discussion on Electromagnetic Noise Optimization Approaches of Permanent Magnet Synchronous Motor Based on Experimental Verification
+靖海宏，邓峰，张旎，吴小龙，陶书杰，杨磊/
+SAECCE2023-NVH078基于双响应面法的车内噪声稳健性优化研究
+Research on Robustness Optimization of Interior Noise Based on Dual Response Surface Method
+杨静，杨家友，丁艳平，余富勇，郑伟，赵晨/
+SAECCE2023-NVH079电驱桥齿轮敲击噪声分析与控制
+Analysis and Control of Gear Rattle Noise for E-axle
+王东，王永超，杨征睿/
+SAECCE2023-NVH083新能源车型的热泵空调噪声振动优化研究
+NVH Optimization of Heat Pump Air-conditional System Applied in New Energy Vehicles 
+黄晓强,刘凤琴,陈晓新/
+SAECCE2023-BD001基于差分进化算法的CPS车辆孪生模型安全性能优化
+Optimization of Safety Performance of CPS Vehicle Virtual Twin Model Based on the Difference Evolution Algorithm
+郝玉庭，金钰，梁浩，王跃建/
+SAECCE2023-BD002Optimal Design of Car Body Structure Based on Small Overlap Barrier Performance
+Jiang Yongping,Zhou Zhongbiao,Zhou Bo/
+SAECCE2023-BD006TRIZ创新方法在解决B立柱系统中保研问题中的应用
+Application of TRIZ Innovation Method in Solving the Problem of CICR in B Pillar System
+曾俊，范清林，向杰，柯留洋，王建洪，孙晓燕，赖登烈，蔺昭辉，唐大欢/
+SAECCE2023-BD007车门铰链结构的优化设计及控制方法
+Optimization Design and Control Method of Door Hinge Structure
+黄洲，范清林，王连昌，陈丽，柯留洋，向杰，蔺昭辉/
+SAECCE2023-BD010乘用车车身一体式后地板设计与研究
+Design and Research of Large Pressure-casting Rear Floor for Passenger Car Body
+张杏红，康洁，李仲奎，王泽忠，周力，陈振飞，盛敏，谌胜/
+SAECCE2023-BD012基于平台化车身的正面25%偏置碰撞和侧面碰撞性能设计
+Design of 25% Frontal Offset Collision and Side Impact Performance Based on Platform Body
+蔺昭辉，柯留洋，范清林，孙晓燕，曾俊，向杰，黄洲/
+SAECCE2023-BD013某车型门槛CBS区域电泳漆未烤干问题分析研究
+Analysis and Research of the Problem of the Electrocoated Paint in the CBS Zone at the Front Threshold of a Certain Vehicle Model that Was Not Dried Properly
+兰亚强，李翠，孙积强，宋兴光，王乾坤/
+SAECCE2023-BD016Smoothness Analysis of Sliding Door Based on Rotation Angle when Opening and Closing
+Liu Hailu，Zuo Junfeng，Zhang Zhe，Li Weiping，Dai Lehong，Yun Tao/
+SAECCE2023-VE001The Study and Implementation of Efficient ADAS Concurrency Task Based on Some/ip
+Xia Baohua,Zheng Hongjiang,Qian Guoping,Yuan Shuning,Chen Kewei,Sun Yutong/
+SAECCE2023-VE003基于CST的BSG六相电机控制器电磁兼容性传导发射联合仿真研究
+Co-simulation of Electromagnetic Compatibility Conducted Emission for BSG Six-Phase Motor Controller Based on CST
+周蒙，王姿阳，杨强大/
+SAECCE2023-VE004虚拟方向盘转角车辆跑偏问题研究及应用
+Research and Application of Virtual Steering Wheel Angle to Vehicle Wandering
+陈慧，魏正绩，杨小辉/
+SAECCE2023-VE005基于实时频谱方法的电驱动总成动态工况电磁兼容性测试方法研究
+Real-time Spectrum Method for Electromagnetic Compatibility Testing of Drive Motor System under Dynamic Working Conditions
+肖智铎，王云，李海鹏，张晨，张广玉，张旭/
+SAECCE2023-VE006基于谐振理论的整车EMC辐射挑战
+Vehicle EMC Radiation Challenge Based on Resonance Theory
+彭明桐，王福坚，韦学优，谢佶宏，黄呈/
+SAECCE2023-VE007汽车轮线束折痕优化及寿命提升
+Crease Optimization and Life Improvement of Automobile Wheel Harness 
+陆晓龙，庄建军，马权，崔宇健，靖吉旭，王亚东/
+SAECCE2023-VE010乘用车车窗软停算法和校核
+Soft Stop Algorithms and Calibration of Door Glass in Passenger Vehicle
+侯双超/
+SAECCE2023-VE011Research on Knock Control Method of Turbocharged Gasoline Engine
+Lei Yanyan,Cui Lianghao,Huang Haohan,Ma Zenghui,Qin Long,Lei Xue,Yang Liuchun,
+Zhang Dequan,Wang Kai,Tian Fengmin,Zhang Fanwu/
+SAECCE2023-VE012一种基于整车网络通信技术的节电策略
+A Power-saving Strategy Based on Vehicle Network Communication Technology
+耿志成，孙江辉，冯硕，张兆龙，王颖鑫/
+SAECCE2023-VE013整车电磁兼容仿真高效建模技术研究
+Research on Efficient Modeling Technology of Vehicle Electromagnetic Compatibility Simulation
+谭若兮，叶尚斌，赵晨，罗宝权，胡俊/
+SAECCE2023-VE016整车下线胎压学习故障的研究与改善
+Research and Improvement of Tire Pressure Learning Fault in Whole Vehicle Offline Production
+刘超伟，王涛，陈创，鲁永山/
+SAECCE2023-VE024自动门侧方隐藏式超声波防撞系统的检测精度研究
+Research on Detection Accuracy of Automatic Door Side Hidden Ultrasonic Anti-collision System
+陈承曦，罗勇/
+SAECCE2023-VE026Simulation of Common Mode Conducted Emissions from an Automotive Inverter Considering the Voltage Ringing
+Li Jia，Qin Mingfeng/
+SAECCE2023-VE028车载液晶显示屏高温保护策略浅析
+Analysis of High Temperature Protection Strategy of Car LCD Screen
+何清华，潘香英，张艳/
+SAECCE2023-VE033面向级联耦合并联拓扑结构的环流抑制方法研究
+Research on Circulating Current Suppression Method for Cascade Coupled Parallel Topology
+秦瑛康，李琪，刘朝辉，李智超，孙浩男，王大方/
+SAECCE2023-VE034基于扰动观测器的永磁同步电机传输阻抗不均衡控制
+Transmission Impedance Unbalance Control Based on Disturbance Observer for Permanent Magnet Synchronous Motor
+许彭斌，李琪，李岩，孔德宽，王大方/
+SAECCE2023-VE035基于模糊控制的直流电机调速控制算法研究
+Research on Speed Regulation Control Algorithm of DC Motor Based on Fuzzy Control
+杨少远，彭邦煌，熊斌，方旭，颜爱平，毕文佳/
+SAECCE2023-VE036商用车FOTA远程升级仪表问题研究
+Research on the Problem That Commercial Vehicles FOTA System Remote Upgrade Instrument Failure
+李志宁，李猛震，聂泽宇，李军龙，段冲磊，马伯祥，王柏淇，陈嘉慧，吴承泽/
+SAECCE2023-VE037Fuel Efficient Racing Vehicle Driving Assistance System
+Yu Liyang,Feng Siyu,Shang Yikun,Chen Zhaoyang,Hua Zhihua,Fang Liang/
+SAECCE2023-VE039基于SOA的中央式架构实践与挑战
+Practice and Challenges of SOA and Centralized Architecture
+程福明，刘聪，郝鹏/
+SAECCE2023-VE040Research on Vehicle OTA Design Based on Electronic and Electrical Architecture
+Ma Yunlin,Liu Jun,Cai Chunmao,Wang Zhongcai,Wen Yong,Sun Xiaowu/
+SAECCE2023-VE041车门驱动器输出功率算法优化对开闭稳定性的改善研究
+Study on the Improvement of Door Open and Close Stability by Output Power Algorithm Optimization of Doordriver
+刘元德，王金阳，慕博韬，刘正建，钟晋，安雪梅/
+SAECCE2023-VE043基于多传感融合的线控转向车辆路感模拟算法研究
+Steering Feel for Steer-by-Wire Vehicles Algorithm Based on Multi-sensor Fusion
+王佳琦，赵贺森，乔斌，陈国迎/
+SAECCE2023-VE044Coupling Control of Sideslip and Yaw Rate for Distributed Drive Vehicles Via Torque Vector Control
+Zhao Xuanming,Du Xiaoxia,Liu Jiayong,Chen Guoying,Zhao Yongqiang,Yao Jun,He Lei/
+SAECCE2023-AA001Some Thoughts About the Aerodynamic  Pressure Center of Automobile
+ Liu Kaihe,Chang Haitao,Li Yang/
+SAECCE2023-AA002The Aerodynamic Development of  VOYAH Zhuiguang BEV Version
+Chu YongJin，Liu Kaihe,Xu Lin/
+SAECCE2023-AA003汽车侧窗污染的试验和优化方法探讨
+Investigation of Test and Optimization Method of Vehicle Side Window Soiling
+侯双超，赵麒/
+SAECCE2023-AA005Meta Model and Optimization Method for Automobile Styling and Aerodynamic Perfor Mance Development in Early Design Stage
+Yuan Haidong，Liu Yingzi，Liu Xuelong，Qin Qing/
+SAECCE2023-AA007汽车在环境风洞内流场的数值模拟与实验研究
+Numerical Simulation and Experimental Research on the Flow Field of Automobile in Climatic Wind Tunnel许翔，王远，于镒隆，王丹，王璐玮，王伟，徐俊芳/
+SAECCE2023-AA010基于全流程优化的纯电轿车低风阻性能开发
+Development of Aerodynamic Performance of EV Sedan Based on Whole Process Optimization
+邓培，王小碧，王伟民，陈星，宋晓颖，董哲明/
+SAECCE2023-AA011某微型电动车前轮区域主动射流气动减阻
+Drag Reduction by Active Jet  for the Front Wheel Region of a Small Electric Vehicle
+陶悦，夏超，杨志刚/
+SAECCE2023-AA012汽车关门耳压舒适性CFD仿真分析及优化
+CFD Simulation Analysis and Optimization of Vehicle Door Closing Ear Pressure
+许增满，陈玉明，史晨路，凌子红，陈达亮/
+SAECCE2023-ST002视觉障碍场景下十字路口电动两轮车事故特征分析及典型场景研究
+Analysis of Electric Two-Wheeler Accident Characteristics at Intersections Under Visual Impairment Scenarios and Typical Scenarios
+孟昕，韩勇，蔡鸿瑜，袁小宾，李燕婷，潘迪/
+SAECCE2023-ST004梯度碳纤维复合材料/铝合金复合多胞管斜压失稳研究
+Study on the Oblique Compression Instability in Gradient CFRP/Aluminum Alloy Hybrid Multi-Cell Tubes
+梁鸿宇，孙昊，王登峰/
+SAECCE2023-ST007利用无人机和监控视频计算车速的方法
+A Method of Calculating Vehicle Speed Using Drones and Surveillance Video
+匡奇龙，何世涯，林淼/
+SAECCE2023-ST009基于数据挖掘的道路交通事故成因多维分析
+Road Traffic Accidents Based on Data Mining Multidimensional Analysis of Causes
+牟雪榕，刘会凯，赵悦含/
+SAECCE2023-ST012Research on Power Battery Fault Diagnosis Based on Improved Information Eetropy
+Qin Shihao,Li Maomeng,Xue Zhixiong,Wang Zichen,Guo Weichao/
+SAECCE2023-ST014Real-Time Dynamic Measurement Method for Automotive Crash Test Dummies Based on Inertial Navigation Technology
+Zhao Jiaqing,Chen Gaojun,Wu Zhehao,Zhang Meng,Li Yuan,Zhang Lixin,Zhou Chengjing/
+SAECCE2023-ST017On the Prediction of Vehicle Crash Failure Based on GISSMO Damage Model
+Feng Xiaobin,Zhu Danhui,Lin Huanan,Zhang Fengli/
+SAECCE2023-ST020Road Traffic Risk Spots Detection by Aggregating Potential Damage Risk using Naturalistic Driving Data
+Chen Chen，Lan Zhiqian，Zhan Guojian，Tang Guanyao，Li Shengbo Eben/
+SAECCE2023-ST022基于碰撞安全的降阶仿真方法研究
+Reduced-Order Simulation Method Based on Crash Safety
+衣本钢，付强，刘莹，闫军飞，全毅/
+SAECCE2023-ST026Analysis on Protection Performance of Active Seat Belt for OOP Occupants
+He Yonglong,Li Zhi,Wang Jingchen,Yan Deyou,Chen Yang/
+SAECCE2023-ST027两种三岁儿童计算模型在正面100%重叠刚性壁障碰撞仿真分析中的应用
+Application of Two Computational Models of Three-Year-Old Child on Analysis of the Frontal 100% Overlap Rigid Barrier Crash Simulation
+王彦鑫，李海岩，祝贺，刘冲，崔世海，贺丽娟，王一达，吕文乐/
+SAECCE2023-ST028针对轿车、MPV及越野车型的aPLI腿型变形模式的设计策略及应用
+Design Strategy and Application of aPLI Leg Deformation Mode of Sedan,MPV and Off-Road Vehicle
+夏艳红，邹光辉，江能辉，张风利/
+SAECCE2023-ST036汽车刮水器结构设计对行人保护头碰性能的影响研究
+The Design of Automobile Wiper and its Effects to the Pedestrian Head Impact Performance
+张洁，袁志鹏，陈虹吉，余亚波/
+SAECCE2023-ST040某三厢轿车的Flex-PLI腿型行人保护设计开发
+Design and Development of Pedestrian Protection for a Three Box Sedan Based on Flex-PLI Leg Shape
+许钰龙，宋刘洋，袁慧森，杨学渊，阳凤生，黄伟/
+SAECCE2023-ST041某SUV车型aPLI先进腿型冲击器的行人保护性能优化
+Design and Development of Pedestrian Protection for A SUV Based on aPLI Leg Shape
+许钰龙，袁慧森，张金胜，曹鹏林，刘宏/
+SAECCE2023-ST043智能车灯光毯场景研究报告
+Research Report on Light Curtain Function of Intelligent Headlamp
+轩轶，段军克，李川，赖岚/
+SAECCE2023-AST003Active Tilting Vehicle Yaw-Tilt Synchronization Control  with Ensembled Bpnn-Rnn
+Gao Ruolin，Wang Ya，Li Haitao，Zhang Xiao，Li Na，He Qi/
+SAECCE2023-AST010Research on Testing Platform Based on Electric  Driven Digital Twin Model
+Fu Yu,Sun Shoufu,Kong Zhiguo,Wang Fang,Huang Xin/
+SAECCE2023-AST014Design and Analysis of A Robust Current  Control Algorithm for Electric Motor Emulator
+Li Qi,Wang Dafang,Li Shuai,Zhang Yujin,Qin Yingkang/
+SAECCE2023-AST015汽车铸铁转向节的碰撞失效模拟研究
+Crash Failure Prediction of Cast Iron Auto Steering Knuckle
+刘彦梅，李伟，郑颢/
+SAECCE2023-AST016进气系统空气滤清器流阻特性仿真及试验研究
+Simulation and Experimental Study on Flow Resistance Characteristics of Air Filter in Intake System
+赵岩，孟建军，朱永梅，肖颜开/
+SAECCE2023-AST017新能源汽车背门撑杆机构布置设计软件开发
+Development of the Software for Layout Design of Brace Mechanism with Back Door of New Energy Vehicles
+邱寿发，李煜，李亚耸，黄小兰，周倩倩/
+SAECCE2023-AST018基于主成分分析和学习向量量化神经网络的制动工况路面识别与验证
+Road Surface Recognition Under Braking Conditions Based on Principal Component Analysis and Learning Vector Quantization Neural Network
+郑国峰，陈文，傅涛/
+SAECCE2023-AST024基于GISSMO模型的铸造铝合金车轮失效模拟研究
+Investigation on Failure Simulation of Cast Aluminum Alloy Wheels Based on GISSMO Model
+余春丽，高翔，周杨智，冯毅/
+SAECCE2023-AST025无源低通EMI滤波器仿真及应用
+Simulation and Application of Passive Low Pass EMI Filter
+许涟，廖志锐，党广生，阳欢，陈晓宏/
+SAECCE2023-AST027基于CD-Tire数字轮胎模型的整车操纵稳定性仿真及实验对标研究
+Research on Benchmarking of Simulation and Experimental of Vehicle Handling Based on CD-Tire Model
+蔡虎，吴泽群，吴照明，段民封/
+SAECCE2023-AST028双腔侧面气囊对侧面柱碰假人保护研究
+Research on Dummy Protection of Dual-Chamber Side Airbag in Side Pole Crash
+曹洋,罗昆，吴泽群/
+SAECCE2023-AST035基于HIL的线控底盘性能测试研究
+Research of By-Wire Chassis Payload Test Platform System Based on HIL
+吴长威，陈思宇，田汉，蒋治/
+SAECCE2023-AST036基于LABCAR的智能悬架仿真与试验研究
+Simulation and Test Research of Intelligent Suspension Based on LABCAR
+黄晨，王一淇，李悦彬，辛志鹏，杨上东/
+SAECCE2023-AST038某纯电动乘用车维修经济性正向开发
+An Improved Forward-Engeering for Maintenance Economy of a Pure Electric Passenger Vehicle
+魏海章，张风利，林华南，唐伟奇/
+SAECCE2023-AST039新型镀膜玻璃对车载蓝牙天线性能的影响
+Research on the Automotive Bluetooth Antenna Caused by the Installation of Low-E Glass
+陈晓宏，吴倩，刘卓华，梁杰，阳欢/
+SAECCE2023-AST041基于路谱的油箱晃动仿真分析
+Simulation of Fuel Tank Oscillation Based on Road Spectrum
+王嘉程，徐泽源，赵可，师占雨,张晓晓/
+SAECCE2023-AST042超弹性本构模型在离合器有限元分析中的应用
+Application of Hyperelastic Constitutive Model in Finite Element Analysis of Clutch
+康一坡，闫博，张尤龙，刘明远/
+SAECCE2023-AST044基于CFD的某商用车除霜系统仿真优化
+Simulation and Optimization of a Commercial Vehicle Defrosting System Based on CFD
+刘宁，李龙勇，闫鑫，刘东，梁建志，万家乐，孙艳宝,王雷/
+SAECCE2023-AST045Study on the Tightening Characteristics of Wheel Bolts  Through Real Vehicle Field-Testing
+Wang Ji，Wang Peng，Zhou Xiangyi，Wang Zhong/
+SAECCE2023-AST047空心H臂结构强度耐久仿真和台架试验
+Strength Durability Simulation and Bench Test of Hollow H-arm
+乔文龙，吏亚军，张静雯，邹衍/
+SAECCE2023-AST048基于动态力学特性的平板参数识别算法研究
+Research on Plate Parameter Identification Algorithm Based on Dynamic Mechanical Properties
+杨家友，丁艳平，余富勇，郑伟，杨静，常兴，赵晨/
+SAECCE2023-AST053Modeling Analysis and Optimization of the Unlocking  Travel of the Car Door Outer Handle
+Qiu Shoufa,Huang Xiaolan,Li Yasong,Li Yu,Zhou Qianqian/
+SAECCE2023-AST054越野动力系统动态倾斜试验装备及方法研究
+Research on Equipment and Method of Dynamic Tilt Test for Off-road Power System
+符良才，张明朗，白李卓，龙焱祥，李锦林，李政宏/
+SAECCE2023-AST055基于软件在环的智能驾驶仿真测试方法研究
+Research on Intelligent Driving Simulation Testing Method Based on Software in the Loop
+黄志凌，李志杰，吕豪，勾天，肖迪/
+SAECCE202-AST057车门开闭耐久仿真精度提升及分析应用
+An Improved FEM Simulation and Application of Door Opening-Closing Durability
+廖扬扬，王国峰，任新星，黄小兰，张风利/
+SAECCE2023-AST060商用车驾驶员静态驾姿生物力学特性分析
+Biomechanical Characteristics Analysis of Static Driving Posture of Commercial Vehicle Drivers
+王星月，王丹，丁淳，李瑞雪，王佳伟，安博野/
+SAECCE2023-AST062白车身一体化耐久仿真技术研究与应用
+Research and Application of Integrated Durability Simulation Technology for White Body
+柳亮，郭静，王斌，王翠，张旎/
+SAECCE2023-AST064某纯电动汽车前副车架耐久开裂的分析和优化
+Analysis and Optimization of Durable Cracking in Front Sub-Frame for a Pure Electric Vehicle
+詹士成，袁宝文，彭文欢，周钊/
+SAECCE2023-AST065商用车前向碰撞预警系统测试方法研究
+Research on Test Method of Commercial Vehicle Forward Collision Warning Systems
+王博通，马文博，秦孔建，郭魁元，郭胤良/
+SAECCE2023-ATS001基于综合工况的汽车空调除霜性能设计优化
+Design Optimization of Automobile Defrosting Performance Based on Comprehensive Working Conditions
+张志，鲁韦江/
+SAECCE2023-ATS002Verification of a FSEC Racing Car Cooling System Model 
+Huang Hai，Zhen Junwei/
+SAECCE2023-ATS004基于机舱热害的隔热结构设计策略研究
+Research on Thermal Insulation Structure Design Strategy Based on Engine Room Heat Damage
+王鹏，秦肖肖，梁海明，勾赵亮，王月，陈世灯/
+SAECCE2023-ATS006冷却系统优化对某车型油耗影响的研究
+Study on the Influence of Cooling System Optimization on Fuel Consumption of a Certain Vehicle
+魏泽鑫，王宏志，赵丹，张伟伟，邱鹏程/
+SAECCE2022-ATS007动力控制压缩机策略对蒸发器结霜影响浅析
+Influence of Power Control Compressor Strategy on Evaporator Frosting
+童润民/
+SAECCE2023-ATS008新能源汽车车外温度采集确定策略优化试验研究
+Study on Poor Comfort of Air Conditioning System Caused by Inaccurate Display of External Temperature Sensor
+李开洪，谢宝成，刘凡，程海文/
+VOLUME Ⅴ
+五、汽车制造工艺技术
+SAECCE2023-MS002基于汽车产品可制造性评审的系统化方法
+The Systematic Method Based on Manufacturability Evaluation of Automobile Product Design
+刘康，夏义斌，魏龙/
+SAECCE2023-MS003乘用车密封条押出工艺研究
+Research on the Extrusion Process of Passenger Car Sealing Strips
+彭仲利,肖华，安伟,李俊,王红军/
+SAECCE2023-MS004多点式激光传感器在软质仪表板弱化加工应用的探索
+Exploration of the Application of Multipoint Laser Sensors in Weakening Processing of Soft Instrument Panels
+田聪，杨坤，吴闯/
+SAECCE2023-MS006关于汽车新色导入色差管理和应用要点的研究
+Research on Chromatic Aberration Management and Application of Automobile New Color
+王杰/
+SAECCE2023-MS007关于色漆双BASE工艺的导入和应用研究
+Research on Introduction and Application of Double BASE Process of Color Paint
+王杰,周丽文,陈双桂/
+SAECCE2023-MS009铸铁浆料渗铝工艺和性能的研究
+The Study of Process and Properties of Slurrying Aluminizing on the Surface of Cast Iron
+胡宁，徐亚隆，杨进荣/
+SAECCE2023-MS013基于SLAM激光导航的工艺AGV的开发设计及应用
+Development,Design and Application of Process AGV Based on SLAM Laser Navigation
+朱炜，平志谦，张俊雄，陈磊，杨牧/
+SAECCE2023-MS014节能减排技术在发动机涂装线上的应用
+Application of Energy Saving and Emission Reduction Technology in Engine Coating Line
+朱炜，许伟，钱承智，平志谦/
+SAECCE2023-MS015Discussion on the Evaluation Method of Maintenance Technology Based on Automotive Engineering Design
+Yu Fuyin,Yang Hongtao,Zheng Yaokai/
+SAECCE2023-MS016铝车轮丝状腐蚀原因分析及评价方法改善
+Cause Analysis of Filamentous Corrosion of Aluminum Wheel Finish Turning Surface and Improvement of Evaluation Method
+谭何灵，陈嘉玥，许梦绮，曹鑫/
+SAECCE2023-MS017焊接备品备件柔性制造模式浅析
+Analysis of Flexible Manufacturing Mode for Welding Spare Parts
+蒋红娅，冉启洪，赵晓利，李少华,杨松，鲁杭/
+SAECCE2023-MS019基于Fisher判别法的夹具误差源诊断及布局点优化
+Fixture Error Source Diagnosis and Layout Point Optimization Based on Fisher Discriminant Method
+曹久雷，吴强，赵晓利，霍小敏，吴显波，李大勇/
+SAECCE2023-MS021Study on Vehicle Clearance Tolerance and Extreme Value Based on Six Sigma
+Cao Jiulei，Li Shaohua，Zhao Xiaoli，Liu Qingsong，Xing Xiaoyan/
+SAECCE2023-MS023尺寸链在车身覆盖件尺寸优化中的应用
+The Application of Dimension Chain in the Automobile Body Covering Parts Size Optimization
+赵锋，邰伟彬，高洪雷，张正杰，苏传义，高鹏，李晶影，代晓旭，王智超，王昊一/
+SAECCE2023-MS025本田公司驾驶辅助系统的稳定性在合成树脂领域的管控方法
+Honda’s Method of Controlling the Stability of Driver Assistance Systems in the Field of Synthetic Resins
+马云超/
+SAECCE2023-MS026增材制造典型热作模具钢的高温下力学性能研究
+Research on Mechanical Properties of Typical Hot Work Die Steel in Additive Manufacturing at High Temperature
+李卫，林兆富，向孝建，李丽辉，左乾隆，吴维科/
+SAECCE2023-MS027谐波分析在轴齿盘环零件质量控制中的应用研究
+Applied Research of Harmonic Analysis in Quality Control of Shaft Gear Disc Ring Parts
+叶宗茂/
+SAECCE2023-MS028整车DTS主观评价及分析研究
+Subjective Evaluation and Analysis of Vehicle DTS
+梁昌明，王哲/
+SAECCE2023-MS029概念车试制方案及质量控制方法
+Manufacturing Scheme and Quality Control Method of Concept Car
+贺兴柱，张金玲，曹阳/
+SAECCE2023-MS032业务中台在汽车生产制造领域的探索及实践
+Exploration and Practice of Business Center in the Field of Automobile Production and Manufacturing
+颜先洪，韩显龙，王俊平，王娟娟，冯胜，何彬，彭小刚/
+SAECCE2023-MS038某轻型货车驻车制动器处温度过高问题分析及整改
+Analysis and Rectification on the Overheating Problem at the Parking Brake of a Light Truck
+刘军，迟玉华/
+SAECCE2023-MS039Moldflow分析结果转化填充工艺参数的方法
+The Method of Moldflow Analysis Results Transforminginto Filling Process Parameters
+施凯文，铁盛武，沈亮涵，陈琳/
+SAECCE2023-MS043基于CAN总线的商用车车速表检测技术的研究
+Research on Speedometer Detection Technology for Commercial Vehicles Based on CAN Bus
+郑毅/
+SAECCE2023-MS044A New Technology of Concentricity Measurement Based on CMM
+Dai Yunfeng,Zhu Guiping,Cui Bin,Zhu Yi/
+SAECCE2023-MS045基于碳化硅MOSFET的高频电泳电源在现场的应用研究
+Field Application of High Frequency Electrophoresis Power Supply Based on Silicon Carbide MOSFET
+程翔宇，黄海波/
+SAECCE2023-MS048缸盖凸轮轴孔加工表面质量问题优化
+Surface Quality Optimization of Cylinder Head CAM Shaft Hole Machining
+谭敏烽，张忠生，赵胜永/
+SAECCE2023-MS049一种用于发动机超硬熔射缸体的珩磨条开发
+A Kind of Honing Tools Which is Used in the Super Hard Cylinder Holes by Bore Spray Coating
+刘雷平/
+SAECCE2023-MS052智能柔性底盘装配序列规划
+Intelligent Flexible Chassis Assembly Sequence Planning
+胡克金，赵靖/
+SAECCE2023-MS053曲轴斜油道孔加工位置度保证探讨
+Discussion on Position Guarantee of Crankshaft Oblique Oil Passage Hole Processing
+张明兴/
+SAECCE2023-MS054应用六西格玛方法提升车门铰链周边漆膜耐腐蚀性
+Improving Corrosion Resistance of Coating Around Door Hinges Based on Six-sigma
+王浩源，姚翔宇，黄平/
+SAECCE2023-MS055汽车总装虚拟评审研究与应用
+Research and Application of Automobile General Assembly Virtual Assessment
+钟志良，张瑞军，宋卫涛/
+SAECCE2023-MS056车门铰链异响问题研究与改善
+Research and Improvement on Abnormal Noise of Door Hinge
+张忠辉，郭成武，杨晶菁，周建力，黄文清/
+SAECCE2023-MS057乘用车整车路试噪声分析与控制
+Analysis and Control of Noise in Road Test of Passenger Car
+张忠辉，郭成武，邱道恒，雷星星，梁政/
+SAECCE2023-MS061喷涂机器人换色色差问题探究
+Research on Color Difference of Robot Color Changing Spraying
+王城南，苏军，张丽桂/
+SAECCE2023-MS063焊接车间物流规划及物流仿真应用研究
+Research on Logistics Planning and Logistics Simulation Application in Welding Workshop
+李少华，雷霞，曹久雷，邢晓燕，邵其林，杨松/
+SAECCE2023-MS064基于MBD的汽车尺寸工程全过程控制技术
+The Whole-Process Control Technology of Automobile Dimension Engineering Based on MBD
+王茜，潘强，刘海博，赵静/
+SAECCE2023-MS069Study for Commercial Vehicle Cab Occupant Protection Standard of GB 26512—2021 and Development Test
+Yang Bin,Sheng Qiguang,Zhang Huiyun,Lei Bin,Li Jiaqi/
+SAECCE2023-MS070Full Four-Door Universal Handing Jig and Products Based on MTP System
+Zhao Dezhi,Wang Yong/
+SAECCE2023-MS079乘用车风窗玻璃自动装配的探索与研究
+Exploration and Research on Automatic Assembly of Passenger Car Windshield Glass
+田润，薛俊嘉，王子豪，赵振伟，吴昶辉/
+SAECCE2023-MS086PP/SEBS共混物的压缩永久变形试验研究
+Experimental Study on Compression Set Properties of PP/SEBS Blend
+张军，张凌紫，程冬霞/
+SAECCE2023-MS091人机工程分析在总装SE分析中的应用
+Application of Ergonomic Analysis in SE Analysis of Assembly
+方立，廖敏，李强，张烨，王宗远，黄显锋/
+SAECCE2023-MS095快换式焊接夹具的支撑点位置研究
+Study on the Position of the Support Point of the Quick-change Welding Fixture
+崔文波，崔立帆，袁正，朱鹏，何鹏瞧，林洪涛，杨喜伟/
+SAECCE2023-MS096六西格玛方法在水性高颜基比涂料开发中的应用研究
+Application of Six Sigma Method in the Development of High Color Based Water Paint Coatings
+马志龙，翟晓伟，王海军，胡勃海，李岳银，王志峰/
+SAECCE2023-MS098商用车减壳先进制造技术创新及应用
+Innovation and Application of Advanced Manufacturing Technology for Commercial Vehicle Shell Reduction
+毕卉，李海明，王景刚，刘学志，宿吉奎，姜思琦,兰义东/
+SAECCE2023-MS102高体分SiCp/Al复合材料激光焊工艺研究
+Study on Laser Welding Process of High Volume Fraction SiCp/Al Composites
+程东锋，樊思燕，苏春堂，李雪晓，侯鹏/
+SAECCE2023-MS104汽车发动机活塞热障涂层研究
+The Research on Thermal Barrier Coating of Automobile Engine Piston
+王祖勇，余金科，张宏飞，樊晓光，赵俊平，范建权，吴永强，张春宾/
+SAECCE2023-MS105汽车保险杠喷涂仿形调试研究与应用
+Research and Application of Automobile Bumper Spraying Profiling Debugging
+刘帆，钟玉祥，朱江/
+SAECCE2023-MS107基于尺寸工程的白车身前照灯安装支架精度改善
+Improvement of the Accuracy of the Installation Bracket for White Body Headlights Based on Dimensional Engineering
+江漪，刘书华，李司臣，马健/
+SAECCE2023-MS109Research on the Stamping Process of a Special Roof Panel
+Yi Bengang,Shen Xianfu,Chen Chenghua,Chen Jingjie,Hu Di/
+SAECCE2023-MS110视觉技术在制动盘智能化生产中的应用
+Applying Vision to Enhance the Intelligence of Brake Disc Production
+杨琦/
+SAECCE2023-MS111现生产多平台地板线合并设计方法
+A Method to Design the Merged Floor Production Line of Multi-platforms of the Production Car
+王娟，国莉/
+SAECCE2023-MS113一种发动机前罩壳涂胶检测系统
+The Utility Model Relates to an Engine Front Cover Coating Detection System
+张浩，肖宁，王艳军 /
+SAECCE2023-MS116浅谈新能源车混线导入方法
+Introduction Method of New Energy Vehicle Mixed Line
+田义，廖敏，李强/
+SAECCE2023-MS119论底盘合装系统工艺设计的数字化应用
+On the Digital Application of Chassis Assembly System Process Design
+董玮,刘泽林,宋伟佳,郑成禹,陈浩然,崔宇/
+SAECCE2023-MS1208.8级车用螺栓本构模型及力学性能研究
+Study on Constitutive Model and Mechanical Properties of Class 8.8 Vehicle Bolt
+宋伟佳，何强，郑成禹/
+SAECCE2023-MS122Energy Saving on Spray Booth Exhaust Treatment in Existing Factory
+Zhou Shaoyang,Shen Lin,Hou Yin,Wang Ji,Mao Weijia,Deng Simin,Zhang Xiao/
+SAECCE2023-MS123总装平面布置工艺规划应用研究
+Application Research of Assembly Plane Layout Process Planning
+陈思捷，董玮，丛立国，冯联会/
+SAECCE2023-MS126基于光学测量的内饰零件测量方案研究
+Investigation of Interior Trim Measurement Solution Based on Optical Measurement
+陈卯宽，张强/
+SAECCE2023-MS127一种基于数字化的底盘合装工艺分析系统
+A Digitized Chassis Assembly Process Analysis System
+宋伟佳，刘泽林，何强，丛立国，董春生，倪健童/
+SAECCE2023-MS130大功率LED车灯铝合金散热器微弧氧化的散热性能仿真模拟
+Simulation of Micro-arc Oxidation of High Power LED Aluminum Alloy Radiator
+王成成，谢攀，李翠，贺帅，黄凯/
+SAECCE2023-MS133Innovation and Optimization of VMT Visual System Calibration Method
+Zhou Zhao,Li Jinwei/
+SAECCE2023-MS135清漆喷涂工序废溶剂回收系统设计研究与应用
+Research and Application of Waste Solvent Recovery Systems Design in Varnish Spraying Process
+胡昌周，田斌/
+SAECCE2023-NM011铁-球墨系金属抗铝热熔损性能及腐蚀机理研究
+Study on the Resistance and Corrosion Mechanism of Iron-Ductile Metal to Aluminum Thermal Melting
+刘东杰，张庆东，雷佳恒，燕子扬，杨超，蒋百灵/
+SAECCE2023-PP002浅析某汽车用执行器齿轮断裂问题分析整改
+Analysis and Rectification of the Broken Gear of an Automobile Actuator
+李文玺，夏文科，管士斌，谷鹏程，赵胜涛，尹希望/
+SAECCE2023-PP003基于DFSS的汽车双层格栅结构设计
+Connecting Structure Design of Automobile Double-Layer Grille Based on DFSS
+高超，陈勇，殷淑娥,张海红/
+SAECCE2023-PP016车灯反光镜真空镀铝层脱落形成机理及对策
+Mechanism on Metallization Layers Peeling-Off of Lamp Reflectors and Its Countermeasures
+李祥兵/
+SAECCE2023-PP018汽车车门玻璃脱槽问题的研究与对策
+Research and Countermeasures for Automobile Door Glass Derailment
+卢超，周广，张龙/
+SAECCE2023-PP021Development Strategy for Modular Design of Steering Column Based on ESSA Architecture
+Wang Yulong,Zhai Wentao,Wang Guoqiang/
+SAECCE2023-PP024基于正向设计的车门玻璃大面总布置设计方法研究
+Research on Side Door Glass Layout Design Method Based on the Top-Down Design
+翟文涛，王玉龙，汪国强/
+SAECCE2023-PP025一种基于Autohold与自动启停控制技术的起步策略研究
+Study of Start Strategy for Autohold and Idle Stop Start Control Technology
+陈阳，黎剑华，冼国毅/
+SAECCE2023-PP026一种双离合变速器防熄火策略研究
+Study of Engine Anti-Stall Strategy with Dual-Clutch Transmission
+赵宇珺，王泽斌，冼国毅/
+SAECCE2023-PP027一种基于48V轻混系统的升档平顺性能策略优化研究
+Study of Upshift Performance Strategy with 48V Hybrid System
+王泽斌，赵宇珺，冼国毅/
+SAECCE2023-PP028覆盖件凹陷深度数字阶段量化方法及应用
+Digital Period Quantization Method for Pit Depth of Skin Parts and Its Application
+王宏伟，罗运，朱丹，雷艳冰/
+SAECCE2023-PP030基于6σ的零阶差车门系统公差设计
+Tolerance Design of Flush Door System Based on Six Sigma
+蒋超，肖谦，展若雨，罗健，邝文峰/
+SAECCE2023-PP031仪表板装饰件在前风挡成像眩目研究
+Research of Virtual Image of Dash Trim on the Front Windshield
+方元杰，张冬冬，侯李娜，李一泽，李颖之/
+SAECCE2023-PP036Research on Multi-Objective Intelligent Optimization of Vehicle Body Platform Performance
+Jiang Xianglian,Cao Qin,Shi Caoliang,Shen Sheng,Qiao Yan/
+SAECCE2023-PP037不同静载下后副车架衬套形变及其对布置的影响
+Analysis of the Relative Position of the Rear Subframe and the Body under Different Loads and Its Influence on the Package
+王世航，马碧波，李健/
+SAECCE2023-PP038基于用户场景的智能电动侧开门系统
+Intelligent Power Side Door System Design Based on User Scene
+杨岩，王建勇，钟斐斐，王斌/
+SAECCE2023-PP039基于塌陷变形的车门密封条断面研究及应用
+Research and Application of Door W/strip Section Based on Collapse Deformation
+郭伟春，黄明登，陈承曦/
+SAECCE2023-PP040全金属单驱电动尾门受力与关键性能研究
+Performance Research on Single-Spindle Power Back Door
+韦康成，周旭，李颖辉，贾尚雨，张高碧/
+SAECCE2023-PP041Research of Seat Vibration Absorption Performance by Vibration Model
+Chen Weidong,Chen Xinman,Cheng Hui/
+SAECCE2023-PP045Study and Practice on the Architecture Design of Electrified Vehicle Platforms
+Sun Qi,Yu Heng,Cheng Kang,Ye Xiaoming,Song Fabao/
+SAECCE2023-PP046基于最佳实践的右舵车开发策略浅析
+Analysis of Right-Hand Drive Vehicle Development Strategy Based on Best Practices
+邓薇，余珩，朱一涵/
+SAECCE2023-PP048汽车运行工况设计方法综述
+Survey on Vehicle Driving Cycle Design Methodology
+施树明，贾素华，林楠，陈柏安/
+SAECCE2023-PP051汽车A柱盲区优化及评价模型研究
+Research on Optimization and Evaluation Model of the Area of Automobile A-Pillar
+荣庆祥,龚慧兰,陈静涛,王悦/
+SAECCE2023-PP056基于响应面法的乘用车上下车评价方法
+Research on Passenger Car Ingress and Egress Modelling Based on Response Surface Methodology
+陈静涛，孙洪岩，王悦/
+SAECCE2023-PP058某车型前照灯基于行人保护腿碰的设计和优化浅谈
+Design and Optimization of Headlamp of a Certain Vehicle Type Based on Pedestrian Protection of Leg Bump
+朱志勇，祝帅，贾晓龙，王鹏，杜宪，李昆,赵俊龙/
+SAECCE2023-PP059基于模型的数字工程是汽车创新研制的必由之路
+Model-Based Digital Engineering is the Only Way of Automobile Innovation R&D
+欧海英，钟益林，许晓冬，周凡利/
+SAECCE2023-PP063纯电动平台前围流水槽形式设计研究
+Design Research of Rain Gutter for Front Wall of Pure Electric Platform
+刘祥杰，徐晗，田进，陈彦龙，黎盼/
+SAECCE2023-PP065基于特征金字塔的主观评分可信度研究
+Reliability of Subjective Rating Based on Feature Pyramid
+赵阳，胡春强，罗国政/
+SAECCE2023-PP066Analysis of Abnormal Seat Belt Shoulder Force Under the Front Collision Conditions
+Shi Zhiping,Li Jiawen,Chen Hongji/
+SAECCE2023-PP067织带及导向环组合对安全带拉出回卷性能的影响研究
+Research on the Influence of the Combination of Webbing and Through Ring on the Pulling and Retracting Performance of Seatbelt
+邓强，施志平，陈虹吉，莫金鸿/
+SAECCE2023-PP068轮辋强度对小偏置碰撞试验影响研究
+Study on the Effect of the Strength of Rim on the Small Overlap Barrier Crash Test
+谭冬冬，李成，陈虹吉，杨帆/
+SAECCE2023-PP071基于仿真及试验的悬置失效分析与改进
+Analysis and Improvement of Suspension Failure Based on Simulation and Experiment
+周平，杨柳，王翔，杨丹丹/
+SAECCE2023-PP072某车型氛围灯面罩失效形式研究及优化
+Research and Optimization on the Failure Form of the Atmosphere Lamp Mask of a Certain Vehicle Model
+何娅平，亢胜利，夏佩，朱磊，林斌/
+SAECCE2023-NM002一种高渗透性防腐材料在车身中的应用
+Application of a High Permeability Anticorrosive Materials in Car Body
+康乐，侯颖，席建斌/
+SAECCE2023-NM006某电动车氛围灯透光PC制件开裂案例研究
+Research on PC Component Crack Issue of Electric Vehicle Ambient Light
+郭孟春，安显，杨伟，熊焕高/
+SAECCE2023-NM009某车型PC/ABS天窗侧装饰条开裂问题研究
+Research on Crack Problem of PC/ABS Sunroof Lateral Decoration Cover of a Vehicle
+张军，周广，晏涛/
+SAECCE2023-NM010车用水晶球头的开发研究
+Development and Research of Crystal Knob for Vehicles
+高建民，陈懿晨，张浩斌/
+SAECCE2023-NM012负氧离子复合防霉变竹纤维功能内饰护面开发及应用
+Development and Application of Negative Oxygen Ion Composite Anti Mold Bamboo Fiber Functional Interior Cover
+鲁姗姗，张彦彪，石绍迁，马晓辰，陈景强，王丽敏，王清国/
+SAECCE2023-NM013车用稻壳基碳硅填料改性聚丙烯开发及应用
+Development and Application of Rice Husk Based Carbon Silicon Filler Modified Polypropylene for Vehicle
+梅汇锋，张彦彪，张鹤，鲁姗姗，史忠鹤，曹力夫，陈景强，王清国/
+SAECCE2023-CE002A Chassis Load Dynamic Estimation Method for Distributed Drive Electric Loaders
+Chen Weiheng，Qiao Yiran，Xue Ka，Guo Lulu，Chen Xinbo/
+SAECCE2023-CE004内骨骼车身高精度、精益智能化焊装技术研究及应用
+Research and Application of High-precision,Lean and Intelligent Welding Technology for Internal Skeleton Vehicle
+徐亚隆，杨进荣，李海瑞，胡宁/
+SAECCE2023-CE005汽车冲压线全零件智能无人化装箱关键技术研究及应用
+Research and Application of Key Technologies for Intelligent Unmanned Packaging of All Parts in Automobile Stamping Line
+徐亚隆，李鑫锋，杨进荣/
+SAECCE2023-CE008RFID技术在冲压模具识别中的应用
+Application of RFID Technology in Stamping Die Recognition
+刘奇涛，宋建飞，叶禁武/
+SAECCE2023-CE010在冲压车间两跨厂房之间用于模具转运的压力机移动工作台系统
+Press Moving Bolster System Used for Die Transfer between Two Span Building in Stamping Shop
+董锴，肖海东，周厚新，刘力/
+SAECCE2023-CE012一种新型吸干机远程智能控制系统研究与应用
+Research and Application of a New Intelligent Control System for Dryer
+何巍，林长宏，吉宏宇，李傲，王学双，孙洪岩，左桐瑀/
+SAECCE2023-CE013伺服模组在汽车柔性工装中的应用
+Application of Servo Module in Automobile Flexible Tooling
+曹久雷，李少华，霍小敏，赵晓利，钱红丽/
+SAECCE2023-CE014Development and Application of Oil On-line Monitoring and Intelligent Diagnosis System for Automotive Stamping Press Driven by Big Data
+Wang Jianxin,Fang Jinliang,Zhao Xu,Yan Wenlong,Zhu Qiushi/
+SAECCE2023-CE017解放广汉涂装车间机械化运输3D仿真分析
+3D Simulation Analysis of Mechanized Transportation in the Jiefang of Guanghan Painting Workshop
+赵久龙，肖友根，李振，张颖/
+SAECCE2023-CE018基于AI算法模型的汽车工厂智能应用系统
+Intelligent Application System for Car Factory Based on AI Algorithm Model
+贾浩鑫，赵锐，项涛/
+SAECCE2023-CE020浅谈涂装车身漆点问题的分析与解决措施
+Analysis and Measures of Paint Spotting Problem of Topcoat Body
+焦春雨/
+SAECCE2023-CE021制动电阻在汽车自动化输送生产线上的应用及优化
+Application and Optimization of Brake Resistors in Automotive Automated Conveyor Production Line
+张瑞，李晶明/
+SAECCE2023-CE022汽车锂电池工厂照明设计浅析
+Analysis of Lighting Design of Automotive Lithium Battery Factory
+曲传伟，向晓莉/
+SAECCE2023-CE024基于线阵相机的仪表板真空成型加工过程异物检测
+Detection of Foreign Matter in Dashboard Vacuum Forming Process Based on Linear Array Camera
+吴闯，李彬，刘杰，田聪/
+SAECCE2023-CE025氢燃料试验室建设方案规划难点分析
+The Analysis of Difficulties in Hydrogen Fuel Lab Construction Program Planning
+刘海明/
+SAECCE2023-CE026BIM技术在某汽车总装车间项目中的应用
+Application of BIM Technology in an Automobile Assembly Workshop Project
+陈东龙，王志军，丁哲，李政妍，徐延辉/
+SAECCE2023-CE027浅谈汽车涂装车间节能设计
+Discussion on Energy-saving Design of Automobile Painting Workshop
+夏文彬，郭蛟粮/
+SAECCE2023-CE032总装物料输送一体化设计探讨
+Discussion on Integrated Design of Final Assembly Material Conveying
+李丙丰/
+SAECCE2023-CE033汽车噪声试验室的工程规划设计
+Engineering Planning and Design of Vehicle Noise Laboratory
+李秋实/
+SAECCE2023-CE035承载&非承载车身混线生产方案浅析
+Analysis of Scheme of Load-bearing and Non-load-bearing Body Mixed-line Production
+高一凡，杨耀勇，黄永波/
+SAECCE2023-CE047汽车工业厂房中大跨度楼板舒适度计算分析
+Calculation and Analysis of Human Comfort of Large-span Floor in the Industrial Building for Automobile
+甘雨,刘霖,于克的，王洋/
+SAECCE2023-CE049变风量节能技术在汽车工厂空调系统中的应用研究
+Application Research on Green and Low Carbon Technology of Automobile Factory Air Conditioning System
+叶蕾，周登科，裴玉录，刘军/
+SAECCE2023-CE053总装车间滑板输送系统电控设计研究与应用
+Research and Application of Electric Control Design for the Sliding Plate Conveying System in the Final Assembly Workshop
+李倩，韩艳，杜东林/
+SAECCE2023-CE057Experimental Study on Optimization of Test Point of Automobile Wheel Suspension Parameters
+Zhang Qilin/
+SAECCE2023-CE059总装车间智能照明系统的应用
+Application of Intelligent Lighting System in Final Assembly Workshop
+李天，王成明，兰小亮，梁刚/
+SAECCE2023-CE062某动力总成试验室节能降耗的探索和实践
+Exploration and Practice of Energy Saving in a Powertrain Test Lab
+周洪利，李东升，何军军，廖云霞，刘继广/
+SAECCE2023-CE063改善汽车油泥模型加工质量的研究
+The Research on the Processing Improvement of Clay Model
+蔡桥，胡卫兵，宁晓东，滕景岳/
+SAECCE2023-CE064涂装车间烘干室采用辊床输送方案分析
+Analysis of the Conveying Scheme Using Roller Bed in the Drying Room of the Coating Workshop
+于广利，刘金永/
+SAECCE2023-CE068混凝土结构加固项目前期方案设计与工程概算联动探讨
+Discussion on the Linkage between Preliminary Plan Design and Engineering Estimatefor Concrete Structure Reinforcement Projects
+闫俊男，马志斌，张彦龙/
+SAECCE2023-CE069浅谈整车淋雨线的规划设计
+Discussion on the Planning and Design of Shower Line
+张国龙，董玮，丛立国，宇文建国，刘玉峰/
+SAECCE2023-CE075基于Plant Simulation的焊装生产线物流车数量的仿真优化
+Simulation and Optimization of Welding Production Line Logistics Car Quantity Based on Plant Simulation
+田乂夫，艾巍/
+SAECCE2023-CE076Design and Application of an Omnidirectional Movement Platform Based on Mecanum Wheels
+Huang Jianhua，Niu Yongsong，Deng Congfang/
+SAECCE2023-CE077保险杠雷达安装自动化设备的设计与实现
+Design and Implementation of Automatic Installation Equipment for Bumper Radar
+吴骁文，李彬，刘杰，杨坤，吴闯/
+SAECCE2023-CE079电池工厂总图规划及物流流线分析
+Battery Factory General Planning and Logistics Flow Line Analysis
+殷鹏飞/
+SAECCE2023-CE082缸盖分装线的高效全自动化创新与实践
+Efficient and Fully Automated Innovation and Practice of Cylinder Head Sub-assembly Line
+朱桃根，石飞，黄伟/
+SAECCE2023-CE084Development and Application of Intelligent Bumper Matching and Sorting System
+Tu Xuehai,Liu Hongci,Liu Qingtao,Hu Wuyuan,Liu Jun,Yao Di,Zeng Hongwu/
+SAECCE2023-CE085新能源高速电机试验控制系统设计与研究
+Design and Research of Control System for New Energy High Speed Motor Test
+刘富强，林长宏，郑吉彪，杨春辉，崔明雨，蔡家强/
+SAECCE2023-CE086汽车工厂采暖节能技术研究
+Research on Energy Saving Technology of Heating in Automobile Factory
+冯勃霖，张宇东，刘啸，张嘉伟，宋志扬/
+SAECCE2023-CE087车架纵梁喷粉工艺余热回收系统的研究及应用
+Research and Application of Waste Heat Recovery System of Frame Side Member Powder Spray Manufacturing Process
+邓一，尉萌，谢奇光，冯明俊，段金鑫，陈亚敏/
+SAECCE2023-CE089基于生产数据驱动的铸造智能管理系统研究
+The Research Based on the Production Data Drives the Improvement Of Workshop Operation Management for Casting Intelligent Management System
+唐晓亮，王玉洁，严康敏，林兆富，胡晓秋/
+SAECCE2023-CE092一种车顶流水条卡扣自动装配系统设计及应用
+Application Research of a Clamping Assembly System and Control Method for Clip-Roof
+陈亮，阳晓希，张猛/
+SAECCE2023-CE093Development and Implementation of Abnormal Noise Test System for Automotive Door Assembly Based on High and Low Temperature Environment
+Liu Chunlai,Liu Hongwei,Cui Chaoliang,Zhang Shuheng,Wang Hongchao,Li Hongdong/
+SAECCE2023-CE095EPC模式在汽车研发试验基地建设项目中的探索与应用
+Exploration and Application of the EPC Model in Automobile Research and Development Experimental Base Construction Projects
+林长宏，马瑞堂，方永平，郑吉彪，蔡家强，张恩泽/
+SAECCE2023-CE099Analysis of the Bearing Behavior and Ultimate Bearing Capacity of The Bottom Hammering Cast-in-place Piles
+Cai Jingwei,Liu Yang,Guo Ruishun/
+SAECCE2023-CE103快速构建数字孪生模型以及在新能源工厂的应用探讨
+Rapid Construction of Digital Twin Models and Discussion on Their Application in New Energy Factories
+周钊,李金伟,徐康,张晨光/
+SAECCE2023-CE104Exploration and Practice of Predictive Maintenance Technology in Automobile Factories
+Hao Zhiqiang,Li Guojun,Chen Lei,Niu Jingcheng/
+SAECCE2023-ART002Research and Application for Thermal Fatigue  Analysis of V-Shape Specimen
+Yang Xiaodong,Chen Zhengguo,Zhang Yunhua,Qi Dongliang/
+SAECCE2023-ART009一种基于载荷谱的频域通用振动谱确定方法探究
+Research on a Determination Method of Frequency Domain Universal Vibration Spectrum Based on Load Spectrum
+贺娜，李鹏，张磊，任斌，田朋涛/
+SAECCE2023-ART010一种多功能整车涉水实验测试设备研究
+Research on a Multi-functional Equipment for Vehicle Flooded Road Test
+汪江，刘东余，邹慧娴，李平，赵玉玺/
+SAECCE2023-ART011悬架局部屈曲损伤估算及疲劳目标修正
+黄东海，赵振奇，王聪聪，吴维冬/
+SAECCE2023-ART012减振器活塞杆安装部紧固防松性能提升及优化设计
+Shock Absorber Piston Rod Mounting Part Fastening Anti-loosening Performance Improvement and Optimized Design
+ 赵振奇,黄东海,陈新文,吴维冬/
+SAECCE2023-ART013Fatigue Analysis of Light Truck Frame Based on Virtual  Proving Ground Technology
+Dong Qiangqiang,Han Jie,Liu Zhonghai,Wu Yang,Cao Jian/
+SAECCE2023-ART017面向主动悬架车型的整车多轴道路模拟试验
+Vehicle Multi-axial Road Simulation Test for Vehicle with Active Suspension
+韩文彬，范学，梁鹏，王香军，刘媛，杨协之，吴福团/
+SAECCE2023-ART020Research on Fatigue Analysis Method of Commercial Vehicle  Body Welding Joint Based on Road Load Spectrum
+Cui Yaoyu,Yan Xin,Li Shenshen,Gu Weimin,Cheng Yuting, Sun Jiamei,
+Zhai Yunlong,Pei Yonghong/
+SAECCE2022-ART021汽车前保支架台架疲劳试验关联研究
+Research on the Correlation of Fatigue Test of Automobile Front Support Bracket Bench
+田应东,李衡,苏振兴/
+SAECCE2023-ART022转速-力-热耦合下驱动电机轴承放电击穿特性研究
+Study of Discharge Breakdown Characteristics of Drive Motor Bearings under Rotational Speed-force-thermal Coupling
+陈威，赵礼辉，王震，翁硕，张东东/
+SAECCE2023-ART024一种关联用户使用的试车场道路选取方法
+A Road Selection Method for Testing Ground Used by Associated Users
+骆宏明，上官文泷，陈林，邢红岩，秦凯，张红星/
+SAECCE2023-ART025汽车道路谱伪损伤等效的结构损伤识别方法研究
+Research on Structural Damage Identification Method Based on Pseudo Damage Equivalent of Automotive Road Spectra
+曾泽江，李衡，何洋，苏振兴/
+VOLUME Ⅵ
+六、技 术 管 理
+SAECCE2023-TM005轿车内饰色差的成因与预防
+The Causes and Preventions for Automobile Interior Color Difference
+范春妮/
+SAECCE2023-TM008换电车型私人消费者购买策略研究
+Research on Private-purchase Strategies for Battery-swapping Electric Vehicles
+孔德洋，刘佳欣，吴仕，吴小员/
+SAECCE2023-TM010Construction of Supplier Quality Prevention and Upgrading Mechanism Based on Game Theory
+Wen Yong/
+SAECCE2023-TM020Research on the Establishment and Application of Quantitative Scoring Standards for Each Dimension Based on QFD Model
+Zou Zengliang,Yuan Heng,Hu Xiting,Lin Weixiong/
+SAECCE2023-TM023柔性橡胶衬套刚度的快速求解方法研究
+Sensitivity Analysis and Rapid Solution of Compliance Bushing Stiffness
+陶宜勇，肖磊，李承亮/
+SAECCE2023-TM025市场化结算机制在汽车制造领域的研究与应用
+Research and Application of Market-oriented Settlement Mechanism in Automobile Manufacturing
+龙顺秋，陈勇，庞声鹏，廖祎，席辉，程春燕/
+SAECCE2023-TM030Research on Fuzzy Grey Evaluation of Vehicle Experience Based on Scene Theory Model
+Li Wangyuchen,Yu Chuanwen/
+SAECCE2023-TM032多元方法论在新能源敞篷车研发中的实践应用
+Apply Multiple Methodologies to Solve the Technical Problem in Folding Top System Development Phase
+王根锋，和丽梅，仝伟，柯娟/
+SAECCE2023-TM034浅析DFMEA从“功能”到“失效”的分析逻辑
+A Brief Analysis of DFMEA from “Function” to “Failure” Logic
+王志华，尤东晟，肖浚仿，龚金宏，朱莎，吴锐/
+SAECCE2023-TM037探索满足高阶智驾自研业务流程特点的用户体验创新流程
+Build an Innovative Design and Development System Framework that Meets the Characteristics of the Automotive Intelligent R&D Process
+朱嘉奇，Pia Hu，余钧雷/
+SAECCE2023-TM040浅谈一种车架模块化、配置化的方法
+Discussion on a Modularation and Configuration Method for Vehicle Frame
+王雪，陈林，熊桦，刘尧，黄甜芳，李骞/
+SAECCE2023-TM043混动发动机开发技术趋势研究
+Research on Development Technology Trend of Hybrid Engine
+陈龙，李仕成，潘洪健，马滔/
+SAECCE2023-TM044中国零碳商用车市场渗透率建模：以重型长途牵引货车为例
+Modeling on the Penetration Rate of China’s Commercial Vehicle Market:Taking Heavy-Duty Long-Haul Trucks as an Example
+郝旭，陆贤涛，杨静，郑亚莉，王贺武/
+SAECCE2023-TM045功能开发过程中产品需求管理与系统
+The Management System for Vehicle Developed Product Requirements
+高建超，卢若振，徐文超/
+SAECCE2023-TM046The Metaverse and Application Scenarios in the Automotive Industry
+Wei Yi,Zhao Fuquan,Liu Zongwei/
+SAECCE2023-TM047国有汽车检测机构科技成果转化与项目分红探索实践—以T公司为例
+Exploration and Practice of Scientific and Technological Achievements Transformation and Project Dividends in State-owned Automobile Testing Institutions—Take T Company as an Example
+张诗敏，张利，张南，张恩兴/
+SAECCE2023-TM050Research on Vehicle Retention Rate Prediction Combined with Pre-trained Language Model
+Liu Zhichao/
+SAECCE2023-TM052汽车企业基于客户画像的五位一体公关模式创新与应用
+Innovation and Application of Five-in-one Public Relations Model Based on Customer Portrait in Automobile Enterprises
+吴彦超，陈随洲，陈钟，鲍建勇，汪劲松/
+SAECCE2023-TM053汽车造型中的产品语意解析
+Product Language Analysis in Automobile Design
+李志超/
+SAECCE2023-TM057新能源越野车整车架构与性能需求研究
+Study on the Vehicle Architecture and Performance Requirements of New Energy Off-road Vehicles
+李跃，司林，刘博,王飞，钟国扬，李松，曾董/
+SAECCE2023-TM058模型化持续改进质量管控机制的构建与运用
+Establishment and Application of the Model-based Continuous Improvement Quality Control Mechanism
+曾桃，罗慧/
+SAECCE2023-TM060回收技术路线对车用动力电池产业的环境影响评估
+Environmental Impact Assessment of the Recycling Technology Routes on the Vehicle Power Battery Industry
+窦昊，郝瀚/
+SAECCE2023-TM062Review of Research on the Commercialization of China’s Intelligent and Connected Vehicles Industry
+Zhao Mengxu,Lu Ruigang,Zhou Boyang,Kang Tianyi/
+SAECCE2023-VE009中国汽车软件在线升级（OTA）现状及管理建议
+Automobile OTA Update Situations and Management Suggestions in China
+林波，董红磊，林烨，王琰，肖凌云/
+VOLUME Ⅶ
+七、商用车，越野、飞行与特种车辆技术
+SAECCE2023-CV003基于底盘台架的动力总成悬置系统仿真分析
+Simulation Analysis of Powertrain Mount System Based on Chassis Bench
+鞠彤晖，李海雄，石裕辉/
+SAECCE2023-CV008EPS电动机定子温度估算和保护策略
+A Motor Stator Temperature Estimation and Protection Strategy of EPS
+邓园，贺帅，徐文进/
+SAECCE2023-CV012Optimization Design and Analysis of Rear Protection  Structure of Commercial Vehicles
+Wang Jiyao，Liu Bao/
+SAECCE2023-CV014考虑环境因素的载货汽车总重估测方法研究
+Research on the Estimation Method of Truck Gross Weight  Considering Environmental Factors
+张硕，李家峰，张煦，陈琳/
+SAECCE2023-CV024基于油膜仿真分析下的增压器止推能力优化研究
+Optimization of Turbocharger Thrust Capacity Based on Oil Film Simulation Analysis
+金明，王芳，邓基峰，余国强，李书伟，陈小欣，周波/
+SAECCE2022-CV025动态思维在质量工作中的实践推广与系统化应用探讨
+Discussion on The Practice and Systematic Application of Dynamic Thinking in Quality Work
+刘义，邓凤霞/
+SAECCE2023-CV026基于大刚度底座台架的发动机悬上振动控制研究
+Research on Engine Overhang Vibration Control Based on Large Stiffness Base Bench
+石裕辉，李海雄，鞠彤晖，曾令贤/
+SAECCE2022-CV027轻型货车前双横臂独立悬架性能研究
+Research on The Performance of Front Dual Wishbone Independent Suspension for Light Duty Truck
+杨凱,王海艳,李家峰,王越,由宪超/
+SAECCE2022-CV028集成浮动式油液衬套研究与应用
+Research and Application of Integrated Floating Oil Bushing
+陈志宁/
+SAECCE2023-CV030Research on Lane Changing Trajectory Planning of Commercial Vehicles in Curves under the Scene of Expressway
+Sun Zhaoxiang,Liu Jingyu,Sun Jiahui /
+SAECCE2023-CV032基于自动化控制的双工位螺纹涂胶技术
+Double-station thread dispensing technology based on automatic control
+赵毅，谭浩/
+SAECCE2023-CV034一种小排量发动机缸体铸造工艺研究
+Research On Casting Technology of A Small Displacement Engine Cylinder Block
+叶建平/
+SAECCE2023-CV039基于道路谱的某商用车蓄电池框强度分析优化
+Strength Analysis and Optimization of the Battery Frame of a Commercial Vehicle Based on Road Spectrum
+刘永超，王辉，王红，祝红，郭樨/
+SAECCE2023-CV040重型货车内气动噪声特性的风洞试验研究
+Wind Tunnel Test Study on Interior Aerodynamic Noise Characteristics in Heavy Trucks
+马金英，廖庚华，陈默，包安宇，薛明欣，曹庆炜，王雪峰/
+SAECCE2023-CV046某大功率发动机飞轮壳耐久性仿真方法研究
+Study on durability simulation method of flywheel housing of a high horsepower engine
+耿广锐，王红，刘道勇，孙健，陈世明/
+SAECCE2023-CV049重型商用车AMT空挡滑行策略节油原理分析
+Analysis of Fuel-Saving Principle of AMT Neutral Sliding Strategy for Heavy Commercial Vehicles
+王奕睿，吴慧敏，周新伟，郭圣权，焦志辉/
+SAECCE2023-CV050Lightweight Design of Suspension Balance-Axle Bracket Based on Nonlinear Strength Simulation and Experiment
+Su Huan,Ding Peilin,Lang Baoyong,Wang Chengen,Yi Jianwu,Liu Daoyong/
+SAECCE2023-CV052傀儡焊在D310后顶焊装夹具中的应用
+Application of Puppet Welding in D310 Rear Top Welding Fixture
+丁涛，贺刚，侯建飞/
+SAECCE2023-CV056Nonlinear Control of the System Composed of the Clutch Assembly with Diaphragm Spring and its Pneumatic Actuator on an AMT
+Jia Yuzhe,Yu Yue,Yang Qi/
+SAECCE2023-CV061基于实际道路的商用车燃油经济性试验研究
+Experimental Research on Fuel Economy of Commercial Vehicles Based on Actual Roads
+徐一凡，刘薇，陈伟建，项海涛，许丽英/
+SAECCE2023-CV063Research and Optimization of CV-EPS Stability for Heavy Commercial Vehicle
+Wang Xing,Li Tao,Xu Wenjin,He Shuai/
+SAECCE2023-CV066转向油管用丁腈橡胶材料寿命预测分析
+Life prediction analysis of nitrile rubber materials for oil pipes
+马晓辰，张彦彪，鲁姗姗，王明明/
+SAECCE2023-CV067The Study and Optimization of Gearbox Whine Noise in the  Cab of Commercial Vehicle
+Tang Chaoqun,Huang Li,Xu Binghua,Qin Sheng/
+SAECCE2022-CV068某中型载货车后视镜怠速抖动分析及改善
+Idling Vibration Analysis and Structure Optimization of The Rear View Mirror of a Medium Truck
+杨少刚，刘宗晟，曹源，夏毓芳，董力铭，张卓/
+SAECCE2023-CV069某商用车顶扰流板风噪声优化仿真
+Wind Noise Optimization Simulation of a Commercial Vehicle Roof Spoiler
+陈默，马金英，廖庚华，杨洋，杨瀚博，岳磊/
+SAECCE2023-CV070V形推力杆螺栓连接可靠性研究
+Study on Reliability of Bolted Connection of V-shaped Thrust Rod
+龚龙，盛其军，卢海波，闫蕃帆，李依君，杨青/
+SAECCE2023-CV073某商用车后桥壳结构优化分析
+Structural Optimization Analysis of the Rear Axle Housing of a Commercial Vehicle
+边佳婷，张亚男，唐乾，杨胜超，黄彤/
+SAECCE2023-OFS001Attitude Control of Active Suspension All-Terrain Vehicle Based on LQR
+Wu Liang,Li Shucheng,Xu Guangjian,Zhang Weizhou,Jia Weiwei/
+SAECCE2023-OFS002基于路面载荷的膨胀水壶支架振动疲劳仿真分析
+Simulation Analysis of Vibration Fatigue of Expansion Kettle Bracket Based on Road Surface
+周淑窈，夏祖国，何宝俊，王萍萍,陈莹，毛立/
+SAECCE2023-OFS007某轻型战术车辆雷达隐身性能分析及优化
+Analysis and Optimization of Radar Stealth Performance of a Light Tactical Vehicle
+李轶伦，张路阳，张晓龙，王斯思，胡文海，张敏/
+SAECCE2023-OFS008新能源越野车平台化开发策略研究
+Research on Platform Development Strategy of New Energy Off-road Vehicles
+丁欢，张联锋，曾董，刘坚坚/
+VOLUME Ⅷ
+八、中国大学生方程式系列赛事论文
+SAECCE2023-FSC001大学生方程式赛车前端碰撞缓冲结构优化设计
+Optimization Design of Impact Attenuator for Formula SAE Racing Car
+任春，刘姁升，杨雪峰，代季韵/
+SAECCE2023-FSC002纯电动方程式赛车电池pack散热系统研究
+Research on Battery Pack Heat Dissipation System for Pure Electric Formula Car
+李书华，黄俊杰，汪永嘉，王璨，董佳豪，周旭/
+SAECCE2023-FSC005FSEC赛车远程数据采集监测系统
+FSEC Racing Remote data Acquisition and Monitoring System
+孟海波，白鸿飞，李刚，乔昊，涂玉鑫，程培源/
+SAECCE2023-FSC006大学生无人方程式赛车转向器结构设计
+Structural Design of Steering Gear for Autonomous Formula Student Racecar
+李千帆，陈贵光，丁子扬，黄施滢/
+SAECCE2023-FSC010Thermal Simulation and Experimental Validation of FSEC Lithium-ion Battery Packs
+Tian Mingshuo,Luo Qiao,Xue Moxuan,Jia Xin,Li Jiacheng,Kang Zhe/
+SAECCE2023-FSC011Design of the Brake System and Brake Force Optimization Based on MATLAB
+Guo Shanqi,Ma Qinshi,Kang Zhe/
+SAECCE2023-FSC014基于Sparklink协议的FSEC赛车分布式拓扑无线BMS电池管理系统硬件设计
+Hardware Design of FSEC Racing Car Distributed Topology Wireless Battery Management System Based on Sparklink Protocol
+莫济源，韦佳贝，王志韬，代洪龙/
+SAECCE2023-FSC015Formula Student Vehicle Dynamic Simulation
+Qian Yuanzhi,Darling Jos/
+SAECCE2023-FSC016基于包络线法的极限轨迹跟踪控制研究
+Research on Trajectory Tracking Control at limits based on Envelope Method
+潘博，张乃斯，田汉青/
+SAECCE2023-FSC017基于巴哈赛车的全时四驱主减速器设计与优化
+Design and Optimization of All Time Four Drive Main Reducer Based on Baja Racing Car
+金兆辉，高嘉霆，王达，田家骁，王宇航，潘昊林，孙庆松，齐高畅/
+SAECCE2023-FSC018System Dynamics Analysis Based on Steel Tube Frame
+Liu Yulong,Hu Huaiming/
+SAECCE2023-FSC020Design Analysis of Monomer Shell Based on FSCC
+Zhu Baolu,Hu Huaiming,Fu Chengyang,Jin Jiachen/
+SAECCE2023-FSC025侧置进气稳压腔双缸平衡设计与仿真方法研究
+Research on the Design and Simulation Method of Two-cylinder Balance of Side-mounted Intake Pressure Regulator Chamber
+韩卓儒，黄涵/
+SAECCE2023-FSC026Ergonomic in the Design of Formula Student Vehicles:a Review of Current Practices and Recommendations for Future Development
+Wang Zhao,Yu Yang,Zhang Kun,Mao Huping,Fan Xiaowei/
+SAECCE2023-FSC027基于FSAC的整车电子电气架构设计
+Design of Vehicle Electronic and Electrical Architecture Based on FSAC
+王思滕，兰建平，董冯雷，肖立，郭文韬/
+SAECCE2023-FSC030基于FSAC的无人驾驶方程式赛车设计
+Design of an Driverless Formula Car Based on FSAC
+郭文韬，兰建平，张湘怡，王思滕，董冯雷，叶子恒/
+SAECCE2023-FSC031FSAE赛车悬架系统的防倾杆设计优化
+Optimization of Anti-Roll Bar Design for FSAE Racing Car Suspension System
+胡怀铭，金家琛，郑国强，姚宏程，刘钰龙，朱宝禄，杨建宇，周志宇，胡宇非/
+SAECCE2023-FSC032FSCC铺层实验及复合材料的选择
+FSCC Lay-up Experiments and Selection of Composite Materials
+付成洋，朱宝禄/
+SAECCE2023-FSC034基于长轴距构型的大学生方程式赛车空气动力学设计与研究
+Aerodynamic Design and Study Based on Long-wheel-base Formula Student Racecars 
+陈冀宁，王津宏，王小漫，王达/
+SAECCE2023-FSC036针对赛道工况的转向系统幅频/相频研究
+Research on Amplitude-Frequency/Phase-Frequency of Steering System According to Track Conditions
+姜乐，王达，赵迪，戴昕阳，姜天柱/
+SAECCE2023-FSC038The Design and Service Life’s Research of Formula Student Racecar Wheel System Structure Based on Spline Connection
+Qiu Yifan,Yang Fan,Wang Da,Jiang Leixin,Wang Jianhang,Wu Jiayu/
+SAECCE2023-FSC039基于转角比例控制的FSAE赛车后轮转向系统
+Rear Wheel Steering System of Fsae Racing Car Based on Angle Proportional Control
+郑浩，张帅/
+SAECCE2023-FSC042适应赛车空气动力学的悬架设计方法研究
+Research on Suspension Design Methods Adapted to Racing Car Aerodynamics
+王津宏，金耿瑞，陈冀宁，吴佳宇，刘川溥，张胜，王达/
+SAECCE2023-FSC043The Design of Integrated Thermal Management System Aimed for Overall Monocoque Structure in FSAE Race Car
+Wu Yida,Wang Da,Liu Kaicun,Wang Junfei,Chen Jining,Wang Jinhong/
+SAECCE2023-FSC044Optimal Design of FSAE Airfoils Based on Hicks-henne Function
+Dai Yan,Peng Feiyang,Yang Chaoyue,Liu Xinyu,Yuan Mu,He Bin/
+SAECCE2023-FSC046Matching Design of Supercharging Systems for FSAE Racing Engine
+Fan Yiming,Hu Xihua,Guo Yuyang,Liu Renhe/

@@ -1,0 +1,13 @@
+{
+  "original_file": "d:\\project\\data_clean\\input\\test_model_image.jpg",
+  "processed_time": "20250331_111156",
+  "documents": [
+    {
+      "content": "FOR OFFICIAL USE ONLY MAY 26, 1955 NOT FOR PUBLICATION 12:00 NOON DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE PUBLIC HEALTH SERVICE COMMUNICABLE DISEASE CENTER POLIOMYELITIS SURVEILLANCE UNIT Accepted Cases Associated with Poliomyelitis Vaccine Daily Supplementary Report Date Date Site PSU Ini- Date lst lst Site lst Lot CASE NO Residence tials Age Sex Inoc Symp Para Inoc Para Mfr No Remarks Cal-27 Los Angeles SG 7 F 4-19 4-27 ? LA LL C E6037 Cal-28 Los Angeles MK 7 M 4-22 5-2 None ? None C E6037 CSF 1 cell, type 2 in stools 5-25 (Dr. Lennette) Cal-29 Los Angeles CM 7 F 4-22 5-2 ? RA LA C E6037 Cal-30 Oakland DE 14 F 4-19 4-29 5-6 LA Arms C ? Quadriplegia Cal-31 Riverside RA 7 M 4-22 5-6 None RA None C E5928 CSF data not yet received Co Cal-32 Los Angeles BB 7 M 4-20 5-3 None LA None C E6C37 CSF no cells, non-paralytic Cal-33 Long Beach DB 7 M 4-22 5-2 None ? None C ?E6038 CSF data not yet received ?E5972 Cal-34 Long Beach DA 7 M 4-22 5-11 None ? None C \" CSF data not yet received Ariz-1 Maricopa LH 7 F 4-25 5-17 None ? None C ?E5928 CSF 214 cells, non-paralytic Va-2 Falls Church RS 7 M 4-26 5-24 None LA None L 8122-649334 CSF 234 cells, non-paralytic Va-3 Chase City MV 7 M 4-29 5-16 None ? None L 8122-64933? CSF 39 cells, non-paralytic Tex-13 Houston RR 7 M 4-19 5-12 None LA None L 7078-649343 CSF 40 cells, non-paralytic ark-2 Scott JLK 6 M 4-20 5-17 None LA None L 7078-649342 CSF no data as yet, non-para- lytic",
+      "metadata": {
+        "source": "d:\\project\\data_clean\\input\\test_model_image.jpg",
+        "processor": "qwen-vl-ocr"
+      }
+    }
+  ]
+}

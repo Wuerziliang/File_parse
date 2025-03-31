@@ -1,0 +1,237 @@
+{
+  "original_file": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+  "processed_time": "20250331_111128",
+  "documents": [
+    {
+      "content": "No.: 1\n算子描述: i.??异常值检测与处理：对缺失数据进行处理，如填补、删除或使用插值法，识别并处理异常数据点，如语法错误或不完整的句子。\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 0
+      }
+    },
+    {
+      "content": "No.: 2\n算子描述: ii.?格式标准化：将数据转换为统一的格式，如日期格式、数值格式等。\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 1
+      }
+    },
+    {
+      "content": "No.: 3\n算子描述: iii.语言过滤：根据预定的语言标准过滤数据，确保数据符合目标语言的要求。\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 2
+      }
+    },
+    {
+      "content": "No.: 4\n算子描述: iv.?启发式方法：使用启发式算法对数据进行初步过滤，排除明显无关或不符合要求的数据。\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 3
+      }
+    },
+    {
+      "content": "No.: 5\n算子描述: v.??数据去重：对重复数据进行检测和移除，尤其是重复的句子和段落。\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 4
+      }
+    },
+    {
+      "content": "No.: 6\n算子描述: vi.?有害内容过滤：识别并去除有害或明确内容，如侮辱性、暴力或成人内容。ix.?合规性：确保数据处理符合相关法律法规。\n对应华为ModelArts Studio中的算子: \n: file:///C:/Users/19706/Downloads/profanity_wordlist.txt",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 5
+      }
+    },
+    {
+      "content": "No.: 8\n算子描述: viii.匿名化处理：对敏感数据进行匿名化处理。\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 6
+      }
+    },
+    {
+      "content": "No.: 10\n算子描述: x.??拼写和语法检查：确保文本数据中没有拼写和语法错误。\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 7
+      }
+    },
+    {
+      "content": "No.: 11\n算子描述: xi.?上下文一致性：确保句子和段落在上下文中具有一致性和连贯性。\n对应华为ModelArts Studio中的算子: 同n-gram\n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 8
+      }
+    },
+    {
+      "content": "No.: 14\n算子描述: 自定义正则替换\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 9
+      }
+    },
+    {
+      "content": "No.: 15\n算子描述: 自定义正则过滤\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 10
+      }
+    },
+    {
+      "content": "No.: 16\n算子描述: 自定义关键词过滤\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 11
+      }
+    },
+    {
+      "content": "No.: 17\n算子描述: 文本长度过滤\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 12
+      }
+    },
+    {
+      "content": "No.: 18\n算子描述: N-gram特征过滤\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 13
+      }
+    },
+    {
+      "content": "No.: 19\n算子描述: 词语特征过滤\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 14
+      }
+    },
+    {
+      "content": "No.: 20\n算子描述: 广告数据过滤\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 15
+      }
+    },
+    {
+      "content": "No.: 21\n算子描述: QA对过滤\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 16
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 17
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 18
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 19
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 20
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 21
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 22
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 23
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 24
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 25
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 26
+      }
+    },
+    {
+      "content": "No.: \n算子描述: 增量训练：\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 27
+      }
+    },
+    {
+      "content": "No.: \n算子描述: 数据占比：广汽：华为 = 1：5\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 28
+      }
+    },
+    {
+      "content": "No.: \n算子描述: 数据量建议：广汽提供至少1B tokens数据，推荐10B tokens数据\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 29
+      }
+    },
+    {
+      "content": "No.: \n算子描述: 华为提供盘古模型原始数据集\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 30
+      }
+    },
+    {
+      "content": "No.: \n算子描述: \n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 31
+      }
+    },
+    {
+      "content": "No.: \n算子描述: 数据清洗：\n对应华为ModelArts Studio中的算子: \n: ",
+      "metadata": {
+        "source": "C:\\Users\\19706\\AppData\\Local\\Temp\\tmp3m7_oafp\\111\\华为文本数据处理算子2025-3-17.csv",
+        "row": 32
+      }
+    }
+  ]
+}
